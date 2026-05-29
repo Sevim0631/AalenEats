@@ -33,11 +33,6 @@ class Establishment(DomainObject):
     def __init__(self, name, address="Aalen City Center"):
         super().__init__()
         self.name = name
-        self.address = address
-
-class Restaurant(Establishment):
-    def __init__(self, name, cuisine_type, menu_items):
-        super().__init__(name)
         self.cuisine_type = cuisine_type
         self.menu_items = menu_items  # Liste aus MenuItem-Objekten
 
