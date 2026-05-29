@@ -10,7 +10,6 @@ class MenuItem(DomainObject):
         self.name = name
         self.price = price
 
-# Spezifische Unterklassen für die Menü-Kategorisierung
 class Main_Dish(MenuItem): pass
 class Appetizer(MenuItem): pass
 class Pasta(MenuItem): pass
@@ -29,15 +28,16 @@ class Pizza(MenuItem): pass
 class Döner(MenuItem): pass
 class Pide(MenuItem): pass
 class Burger(MenuItem): pass
-class Establishment(DomainObject):
-    def __init__(self, name, address="Aalen City Center"):
+
+# Restaurant now inherits directly from DomainObject
+class Restaurant(DomainObject):
+    def __init__(self, name, cuisine_type, menu_items):
         super().__init__()
         self.name = name
         self.cuisine_type = cuisine_type
         self.menu_items = menu_items  # Liste aus MenuItem-Objekten
 
 class Order:
-    """Verwaltet den aktuellen Warenkorb des Kunden."""
     def __init__(self):
         self.selected_items = []
 
