@@ -1,0 +1,197 @@
+Item Name,Category,Price
+Table Water (0.2 l) ,Non_Alcoholic_Drink,2.5
+Table Water (0.4 l),Non_Alcoholic_Drink,3.5
+Selters Mineral Water,Non_Alcoholic_Drink,6.5
+Coca Cola,Non_Alcoholic_Drink,4.0
+Coca Cola Light,Non_Alcoholic_Drink,4.0
+Fanta,Non_Alcoholic_Drink,4.0
+Sprite,Non_Alcoholic_Drink,4.0
+Spezi,Non_Alcoholic_Drink,4.0
+Bitter Lemon,Non_Alcoholic_Drink,3.5
+Ginger Ale,Alcoholic_Drink,3.5
+Apple Juice,Non_Alcoholic_Drink,4.5
+Orange Juice,Non_Alcoholic_Drink,4.5
+Mango Nectar,Non_Alcoholic_Drink,4.5
+Passion Fruit Nectar,Non_Alcoholic_Drink,4.5
+Currant Nectar,Non_Alcoholic_Drink,4.5
+Lychee Nectar,Non_Alcoholic_Drink,4.5
+Guava Nectar,Non_Alcoholic_Drink,4.5
+All Juices & Nectars also available as Spritzer,Non_Alcoholic_Drink,4.0
+Blue Slip Cocktail,Alcoholic_Drink,9.5
+Lychee Rose Mojito,Alcoholic_Drink,9.5
+Pink Breeze Cocktail,Alcoholic_Drink,9.5
+Ganesha Colada,Non_Alcoholic_Drink,9.5
+Sharabi Mango Cocktail,Alcoholic_Drink,9.5
+Elderflower-Mint Lemonade,Non_Alcoholic_Drink,8.5
+Strawberry-Melon Lemonade,Non_Alcoholic_Drink,8.5
+Mango-Lime Lemonade,Non_Alcoholic_Drink,8.5
+Ginger-Honey Lemonade,Non_Alcoholic_Drink,8.5
+Ganesha Special Lemonade,Non_Alcoholic_Drink,8.5
+Summer Special Lemonade,Non_Alcoholic_Drink,8.5
+Meethi Lassi (Sweet),Non_Alcoholic_Drink,4.5
+Namkeen Lassi (Salty),Non_Alcoholic_Drink,4.5
+Masala Lassi (Spiced),Non_Alcoholic_Drink,4.5
+Coconut Lassi,Non_Alcoholic_Drink,5.0
+Strawberry Lassi,Non_Alcoholic_Drink,4.5
+Chai Latte,Coffee_Types,5.0
+Kahwa (Green Tea with Cardamom),Coffee_Types,4.5
+Coffee,Coffee_Types,4.0
+Espresso,Coffee_Types,3.0
+Latte Macchiato,Coffee_Types,5.0
+Ginger Tea with Fresh Mint,Coffee_Types,4.5
+Jasmine Tea,Coffee_Types,4.5
+Yogi Tea (Ayurvedic Herb Blend),Coffee_Types,4.5
+Non-alcoholic Beer,Alcoholic_Drink,4.5
+Aperol Spritz,Alcoholic_Drink,7.5
+Hugo,Alcoholic_Drink,7.5
+Lillet Berry,Alcoholic_Drink,7.5
+Glass of Prosecco (also with Mango),Alcoholic_Drink,4.5
+Bottle of Prosecco,Alcoholic_Drink,20.0
+Jacky Cola,Non_Alcoholic_Drink,8.5
+Johnny Walker Black Label,Alcoholic_Drink,8.5
+Gin Tonic,Alcoholic_Drink,8.5
+Absolut Lemon,Alcoholic_Drink,8.5
+Mango Schnapps,Alcoholic_Drink,4.0
+Mango Liqueur,Alcoholic_Drink,4.0
+Coconut Schnapps,Alcoholic_Drink,4.0
+Indian Rum Old Monk,Alcoholic_Drink,4.0
+Samtrot Rose, Kabinett,Alcoholic_Drink,6.0
+Lemberger Wine,Alcoholic_Drink,6.0
+Schnaufer Sparkling Wine,Alcoholic_Drink,6.0
+Indian Red Wine,Alcoholic_Drink,6.5
+Kabinett dry,Dessert,6.0
+Grau Burgunder (Pinot Gris) dry,Alcoholic_Drink,6.0
+Indian White Wine,Alcoholic_Drink,6.5
+Wine Spritzer,Alcoholic_Drink,6.5
+Mulligatawny Soup (Spicy Chicken & Lentil Soup),Soup,6.5
+Vegetable Pakora (Fried Vegetable Fritters),Appetizer,6.5
+Chicken Pakora (Fried Spiced Chicken Breast Fritters),Appetizer,7.5
+Mushroom Pakora (Fried Mushroom Fritters),Appetizer,7.0
+Onion Bhaji (Spiced Fried Onion Rings),Main Dish,6.5
+Jhinga Pakora (Fried King Prawn Fritters),Appetizer,11.0
+Mixed Pakora Platter (For Two Persons),Appetizer,12.5
+Chicken Tikka (Clay Oven Grilled Chicken Chunks),Main_Dish,8.5
+Vegetable Samosa (2 Pieces Crispy Vegetable Pastries),Appetizer,7.5
+Veg Manchurian (Indo-Chinese Vegetable Dumplings),Main_Dish,8.0
+Aloo Tikki,Appetizer,8.0
+Samosa Chaat (Deconstructed Samosa with Chickpeas & Yogurt),Appetizer,10.0
+Chana Chaat (Spiced Tangy Chickpea Salad),Appetizer,8.0
+Kheera Raita (Spiced Cucumber Yogurt Dip),Extras,5.0
+Mixed Raita (Yogurt with Onions, Tomatoes & Cucumber),Extras,5.5
+Jeera Rice,Extras,5.5
+Plain Basmati Rice,Rice,4.5
+Tomato Salad,Extras,7.5
+Ganesha Salad,Extras,13.0
+Namaste Salad,Extras,12.0
+Small Mixed Side Salad,Extras,7.5
+Olive Naan,Extras,5.0
+Papadam,Extras,4.0
+Keema Naan,Extras,5.5
+Butter Naan (Clay Oven Flatbread Brushed with Rich Melted Butter),Extras,4.5
+Tandoori Roti (Whole Wheat Unleavened Flatbread),Extras,3.5
+Naan,Extras,4.0
+Garlic Naan (Flatbread Topped with Fresh Minced Garlic and Herbs),Extras,5.0
+Paneer Naan,Extras,5.5
+Namaste Naan,Extras,5.5
+Ginger Naan,Extras,4.5
+Veggie Naan,Extras,5.5
+Chili Naan,Extras,4.5
+Chicken Tikka (Clay Oven Grilled Chicken Chunks),Main_Dish,19.0
+Chicken Tikka (Clay Oven Grilled Chicken Chunks),Main_Dish,20.0
+Lamb Tikka Tandoori,Extras,23.0
+Prawn Tandoori,Extras,24.0
+Tandoori Mix Grill,Extras,23.0
+Paneer Tikka Tandoori,Extras,20.0
+Mango Tikka Tandoori,Extras,21.0
+Duck Tandoori,Extras,23.0
+Chicken Curry (Classic Chicken Breast in Aromatic Onion Gravy),Extras,16.0
+Chicken Vindaloo (Chicken and Potatoes in Fiery Hot Vindaloo Sauce),Extras,17.0
+Chicken Tikka (Clay Oven Grilled Chicken Chunks),Extras,17.0
+Lamm Tikka Masala,Extras,19.5
+Garnelen Tikka Masala,Extras,19.5
+Crispy Breaded Duck Masala,Extras,19.5
+Paneer Tikka Masala,Extras,17.0
+Chicken Spinach,Extras,17.0
+Lamb Spinach,Extras,19.5
+Prawn Spinach,Extras,19.5
+Chicken Butter,Extras,17.5
+Lamb Butter,Extras,19.5
+Prawn Butter,Extras,19.5
+Crispy Breaded Duck Butter,Extras,19.5
+Paneer Butter,Extras,17.5
+Chicken Madras (Chicken in Hot and Fiery Coconut Curry Sauce),Extras,17.0
+Chicken Sabji,Extras,17.0
+Lamb Sabji,Extras,19.5
+Prawn Sabji,Extras,19.5
+Crispy Breaded Duck Sabji,Extras,19.5
+Chicken Mango,Extras,17.0
+Lamb Mango,Extras,19.5
+Prawn Mango,Extras,19.5
+Crispy Breaded Duck Mango,Extras,19.5
+Paneer Mango,Extras,17.0
+Chicken Dhansak,Extras,17.0
+Paneer Dhansak,Extras,17.0
+Chicken Jalfrezi,Extras,17.0
+Lamb Jalfrezi,Extras,19.5
+Prawn Jalfrezi,Extras,19.5
+Crispy Breaded Duck Jalfrezi,Extras,19.5
+Paneer Jalfrezi,Extras,17.0
+Chicken Achari,Extras,17.0
+Fish Curry,Main_Dish,20.0
+Fish Karahi,Main_Dish,20.0
+Fish Madras,Main_Dish,20.0
+Fish Korma,Main_Dish,20.0
+Fish Butter,Main_Dish,20.0
+Fish Vindaloo,Main_Dish,20.0
+Fish Mango,Main_Dish,20.0
+Fish Masala,Main_Dish,20.0
+Crispy Chicken Karahi,Main_Dish,18.0
+Chicken Vindaloo (Chicken and Potatoes in Fiery Hot Vindaloo Sauce),Main_Dish,18.0
+Chicken Korma (Chicken Breast in Mild Cashew Cream Sauce),Main_Dish,18.0
+Crispy Chicken Masala,Main_Dish,18.0
+Crispy Chicken Palak,Main_Dish,18.0
+Crispy Chicken Butter,Main_Dish,18.0
+Crispy Chicken Sabji,Main_Dish,18.0
+Crispy Chicken Mango,Main_Dish,18.0
+Crispy Chicken Dhansak,Main_Dish,18.0
+Mixed Vegetables,Main_Dish,16.0
+Tarka Dal,Main_Dish,16.0
+Vegetable Korma,Main_Dish,17.0
+Chana Masala (Spiced Chickpeas in Tangy Masala Gravy),Main_Dish,16.0
+Palak Paneer (Cottage Cheese Cubes in Creamy Spiced Spinach),Main_Dish,17.0
+Karahi Paneer,Main_Dish,17.0
+Malai Kofta (Fried Cheese-Vegetable Dumplings in Cream Sauce),Dessert,17.0
+Chilli Paneer,Main_Dish,17.0
+Matter Paneer Aloo,Main_Dish,16.5
+Aloo Palak,Main_Dish,16.0
+Karahi Mushroom,Main_Dish,17.0
+Paneer Lababdar,Main_Dish,17.0
+Bhindi Masala (Fresh Wok-fried Okra with Onions and Spices),Main_Dish,17.0
+Vegetarian Kofta,Main_Dish,16.5
+Veggi Mango,Main_Dish,17.0
+Veg Manchurian (Indo-Chinese Vegetable Dumplings),Main_Dish,17.0
+Chicken Biryani (Fragrant Basmati Rice Cooked with Marinated Chicken),Rice,17.0
+Lamb Biryani,Rice,19.5
+Ganesha Biryani,Rice,20.0
+Vegetable Biryani,Rice,17.0
+Prawn Biryani (Basmati Rice Steamed with Spiced King Prawns),Rice,20.0
+Chicken Nuggets with Fries,Dessert,8.5
+French Fries,Dessert,5.5
+Sweet Potato Fries,Dessert,5.5
+Chicken Sabzi,Main_Dish,11.0
+Fish Goa,Main_Dish,11.0
+Chicken Biryani (Fragrant Basmati Rice Cooked with Marinated Chicken),Rice,11.0
+Lamb Karahi,Dessert,12.5
+Mango Lamb,Main Dish,12.5
+Matter Paneer Aloo,Extras,11.0
+Karahi Paneer,Extras,11.0
+Indian Paradise,Dessert,5.5
+Namaste Phirny,Dessert,5.0
+Gulab Jamun (Warm Fried Milk Dumplings in Cardamom Sugar Syrup),Dessert,5.5
+Mango Creme,Dessert,6.0
+Chef Phirny,Dessert,5.5
+Vanilla Ice Cream,Dessert,4.5
+Chocolate Ice Cream,Dessert,4.5
+Rose Ice Cream,Dessert,6.0
+Ras Malai,Dessert,6.5
+Affogato,Dessert,4.5

@@ -1,0 +1,27 @@
+﻿Restaurant Name,Cuisine,Menu File
+Asia Gourmet,Asian,menu_gourmet.csv
+CuvinAA,Asian,menu_cuvin.csv
+Yuma Sushi Tapas,Asian,menu_yuma.csv
+Kokono Aalen,Asian,menu_kokono.csv
+Nami Asian Kitchen,Asian,menu_nami.csv
+Bierhalle Aalen,German,menu_bierhalle.csv
+Restaurant Adler,German,menu_adler.csv
+Waldstube Eichenhof,German,menu_eichenhof.csv
+Enchilada Aalen,Mexican,menu_enchilada.csv
+Öz Antep Sofrası,Turkish,menu_antep.csv
+Keyf-et,Turkish,menu_keyfet.csv
+The Dalton's Kebab,Turkish,menu_dalton.csv
+Momos Gemüsekebab,Turkish,menu_momo.csv
+Ali's Grill Pizza House,Turkish,menu_ali.csv
+Marmaris Imbiss,Turkish,menu_marmaris.csv
+Stern Kebab,Turkish,menu_stern.csv
+Indian Sangam,Indian,menu_sangam.csv
+Indian Curry Korb,Indian,menu_curry_korb.csv
+Ganesha,Indian,menu_ganesha.csv
+Indus Valley Restaurant,Indian,menu_indus_valley.csv
+L'Osteria Cucina e Bar,Italian,menu_losteria.csv
+Italia,Italian,menu_italia.csv
+Ristorante Pizzeria Zinella,Italian,menu_zinella.csv
+La Rustica,Italian,menu_larustica.csv
+Pizzeria Salvatore,Italian,menu_salvatore.csv
+Ristorante Pizzeria Rauchfang,Italian,menu_rauchfang.csv
