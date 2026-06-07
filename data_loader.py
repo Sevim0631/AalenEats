@@ -60,9 +60,9 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
                                     class_blueprint = class_mapping.get(category_str, MenuItem)
                                     menu_items.append(class_blueprint(item_name, price))
                                 except ValueError:
-                                    print(f"⚠️ Warnung: Zeile konnte nicht geparst werden: {item_str}")
+                                    print(f"fıle could not be parsed: {item_str}")
             else:
-                print(f"ℹ️ Hinweis: Menüdatei '{full_menu_path}' fehlt für '{name}'.")
+                print(f" Menufile '{full_menu_path}' missing for '{name}'.")
 
             restaurants_pool.append(Restaurant(name, cuisine, menu_items))
 

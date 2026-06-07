@@ -44,5 +44,12 @@ class Order:
     def add_item(self, item):
         self.selected_items.append(item)
 
+    def remove_item(self, item):
+        if item in self.selected_items:
+            self.selected_items.remove(item)
+
+    def clear_cart(self):
+        self.selected_items.clear()
+
     def get_total_price(self):
         return sum(item.price for item in self.selected_items)
