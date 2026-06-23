@@ -207,7 +207,7 @@ class AalenEatsApp:
         nav_frame.pack(pady=10)
         tk.Button(nav_frame, text="< Back", fg="red", font=("Arial", 11, "bold"),
                   command=lambda: self.show_category_selection(restaurant)).pack(side="left", padx=5)
-        tk.Button(nav_frame, text="Home", fg="blue", font=("Arial", 11, "bold"),
+        tk.Button(bottom_nav_frame, text="Home", fg="blue", font=("Arial", 11, "bold"),
                   command=self.show_cuisine_selection).pack(side="left", padx=5)
 
 
