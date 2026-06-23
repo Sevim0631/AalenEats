@@ -214,6 +214,20 @@ class AalenEatsApp:
         self.current_order.add_item(item)
         messagebox.showinfo("Added", f"{item.name} added to your order!")
 
+    def update_item_quantity(self, item, quantity_change, restaurant, selected_category):
+        # This method is used in show_cart, and _update_menu_item_quantity is used in show_menu
+        # They have similar logic but are kept separate for clarity based on context
+        if item.id in self.current_order.selected_items:
+            current_quantity = self.current_order.selected_items[item.id]['quantity']
+            new_quantity = current_quantity + quantity_change
+            if new_quantity > 0:
+                self.current_order.set_item_quantity(item, new_quantity)
+            else:
+                # If new_quantity is 0 or less, remove the item from the cart
+                if item.id in self.current_order.selected_items:
+                    del self.current_order.selected_items[item.id]
+        self.show_cart(restaurant, selected_category) # Refresh the cart view
+
     def remove_item_from_cart(self, item_to_remove, restaurant, selected_category):
         # This method is now redundant as update_item_quantity handles removal
         # but keeping it for now if there's a direct 'X' button elsewhere
