@@ -202,10 +202,13 @@ class AalenEatsApp:
         tk.Button(container, text="Finish & Pay", bg="green", fg="white", font=("Arial", 12, "bold"), width=18,
                   command=self.show_final_receipt).pack(pady=5)
 
-        # Navigation Buttons
-        nav_frame = tk.Frame(container)
-        nav_frame.pack(pady=10)
-        tk.Button(nav_frame, text="< Back", fg="red", font=("Arial", 11, "bold"),
+        tk.Button(bottom_nav_frame, text="View Cart", bg="blue", fg="white", font=("Arial", 12, "bold"), width=18,
+                  command=lambda: self.show_cart(restaurant, selected_category)).pack(side="left", padx=5)
+
+        tk.Button(bottom_nav_frame, text="Finish & Pay", bg="green", fg="white", font=("Arial", 12, "bold"), width=18,
+                  command=self.show_final_receipt).pack(side="left", padx=5)
+
+        tk.Button(bottom_nav_frame, text="< Back", fg="red", font=("Arial", 11, "bold"),
                   command=lambda: self.show_category_selection(restaurant)).pack(side="left", padx=5)
         tk.Button(bottom_nav_frame, text="Home", fg="blue", font=("Arial", 11, "bold"),
                   command=self.show_cuisine_selection).pack(side="left", padx=5)
