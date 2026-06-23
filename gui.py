@@ -243,7 +243,10 @@ class AalenEatsApp:
             cart_frame = tk.Frame(container, bg="#f8f9fa", bd=1, relief="solid")
             cart_frame.pack(pady=10, fill="x", padx=20)
 
-            for item in self.current_order.selected_items:
+            for item_id, data in self.current_order.selected_items.items():
+                item = data['item']
+                quantity = data['quantity']
+
                 item_row_frame = tk.Frame(cart_frame, bg="#f8f9fa")
                 item_row_frame.pack(fill="x", padx=10, pady=2)
 
