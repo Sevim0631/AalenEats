@@ -211,7 +211,9 @@ class AalenEatsApp:
                   command=self.show_cuisine_selection).pack(side="left", padx=5)
 
     def add_to_cart(self, item):
-        self.current_order.add_item(item)
+        # This method is now implicitly handled by _update_menu_item_quantity when adding 1
+        # Keeping it for now, but it's not called directly from the menu item display anymore
+        self.current_order.add_item(item, quantity=1)
         messagebox.showinfo("Added", f"{item.name} added to your order!")
 
     def update_item_quantity(self, item, quantity_change, restaurant, selected_category):
