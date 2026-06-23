@@ -215,6 +215,8 @@ class AalenEatsApp:
         messagebox.showinfo("Added", f"{item.name} added to your order!")
 
     def remove_item_from_cart(self, item_to_remove, restaurant, selected_category):
+        # This method is now redundant as update_item_quantity handles removal
+        # but keeping it for now if there's a direct 'X' button elsewhere
         self.current_order.remove_item(item_to_remove)
         messagebox.showinfo("Removed", f"{item_to_remove.name} removed from your order!")
         self.show_cart(restaurant, selected_category) # Refresh the cart view
