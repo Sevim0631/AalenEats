@@ -79,8 +79,10 @@ class AalenEatsApp:
             order_summary_frame.pack(pady=5) # This frame will be centered
 
             tk.Label(order_summary_frame, text="Your Current Order:", font=("Arial", 12, "bold")).pack()
-            for item in self.current_order.selected_items:
-                tk.Label(order_summary_frame, text=f"- {item.name} ({item.price:.2f}€)", font=("Arial", 10)).pack()
+            for item_id, data in self.current_order.selected_items.items():
+                item = data['item']
+                quantity = data['quantity']
+                tk.Label(order_summary_frame, text=f"- {item.name} (x{quantity}) ({item.price:.2f}€)", font=("Arial", 10)).pack()
             total = self.current_order.get_total_price()
             tk.Label(order_summary_frame, text=f"Total: {total:.2f}€", font=("Arial", 12, "bold"), fg="green").pack(pady=5)
             tk.Button(order_summary_frame, text="View Full Cart", command=lambda: self.show_cart(None, None)).pack(pady=5) # Pass None for restaurant and category as they are not relevant here
