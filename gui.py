@@ -159,7 +159,18 @@ class AalenEatsApp:
 
         tk.Label(container, text=f"{restaurant.name}", font=("Helvetica", 16, "bold")).pack(pady=5)
         tk.Label(container, text=selected_category.__name__.replace("_", " "), font=("Helvetica", 14, "italic"), fg="gray").pack(pady=5)
-        tk.Label(container, text="Click items to add to order", font=("Arial", 10, "italic")).pack(pady=5)
+
+        # Top navigation and info frame for Back/Home and "Click items..." text
+        top_nav_and_info_frame = tk.Frame(container)
+        top_nav_and_info_frame.pack(pady=5, fill="x") # Keep fill="x" to spread buttons
+
+        tk.Button(top_nav_and_info_frame, text="< Back", fg="red", font=("Arial", 11, "bold"),
+                  command=lambda: self.show_category_selection(restaurant)).pack(side="left", padx=5)
+
+        tk.Label(top_nav_and_info_frame, text="Adjust quantity directly", font=("Arial", 10, "italic")).pack(side="left", expand=True) # Changed text
+
+        tk.Button(top_nav_and_info_frame, text="Home", fg="blue", font=("Arial", 11, "bold"),
+                  command=self.show_cuisine_selection).pack(side="right", padx=5)
 
         filtered_items = [item for item in restaurant.menu_items if isinstance(item, selected_category)]
 
