@@ -195,9 +195,8 @@ class AalenEatsApp:
             quantity_label = tk.Label(quantity_controls_frame, text=str(current_quantity), font=("Arial", 10), width=3)
             quantity_label.pack(side="left", padx=2)
 
-        # New "View Cart" button
-        tk.Button(container, text="View Cart", bg="blue", fg="white", font=("Arial", 12, "bold"), width=18,
-                  command=lambda: self.show_cart(restaurant, selected_category)).pack(pady=10)
+            tk.Button(quantity_controls_frame, text="+", font=("Arial", 9, "bold"), width=2,
+                      command=lambda i=item: self._update_menu_item_quantity(i, 1, restaurant, selected_category)).pack(side="left")
 
         # Bottom Navigation Buttons (re-added and grouped)
         bottom_nav_frame = tk.Frame(container)
