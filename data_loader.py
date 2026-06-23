@@ -37,7 +37,6 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
             cuisine = parts[1].strip()
             menu_filename = parts[2].strip()
 
-            # WICHTIG: Pfad zum 'data'-Ordner hinzufügen
             full_menu_path = os.path.join("data", menu_filename)
             menu_items = []
 
