@@ -48,7 +48,7 @@ class AalenEatsApp:
         """Zeigt den Startbildschirm mit Logo und "Start Ordering"-Button."""
         container = self.create_scrollable_container()
 
-        tk.Label(container, text="Welcome to Aalen Eats", font=("Helvetica", 24, "italic")).pack(pady=20)
+        tk.Label(container, text="Welcome to Aalen Eats", font=("Great Vibes", 24, "italic")).pack(pady=20) # Changed font to Great Vibes
 
         try:
             # Load the image
