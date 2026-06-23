@@ -175,7 +175,21 @@ class AalenEatsApp:
         filtered_items = [item for item in restaurant.menu_items if isinstance(item, selected_category)]
 
         for item in filtered_items:
-            display_text = f"{item.name}\n{item.price:.2f}€"
+            item_quantity_frame = tk.Frame(container, bd=1, relief="solid", padx=5, pady=2)
+            item_quantity_frame.pack(pady=3, fill="x")
+
+            # Item Name and Price
+            tk.Label(item_quantity_frame, text=f"{item.name} ({item.price:.2f}€)",
+                     font=("Arial", 10), anchor="w").pack(side="left", expand=True)
+
+            # Quantity controls
+            quantity_controls_frame = tk.Frame(item_quantity_frame)
+            quantity_controls_frame.pack(side="right")
+
+            current_quantity = self.current_order.selected_items.get(item.id, {}).get('quantity', 0)
+
+            tk.Button(quantity_controls_frame, text="-", font=("Arial", 9, "bold"), width=2,
+                      command=lambda i=item: self._update_menu_item_quantity(i, -1, restaurant, selected_category)).pack(side="left")
 
             btn = tk.Button(container, text=display_text, font=("Arial", 10), width=42, height=2,
                             wraplength=320, justify="center",
