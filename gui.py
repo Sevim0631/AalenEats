@@ -199,8 +199,9 @@ class AalenEatsApp:
         tk.Button(container, text="View Cart", bg="blue", fg="white", font=("Arial", 12, "bold"), width=18,
                   command=lambda: self.show_cart(restaurant, selected_category)).pack(pady=10)
 
-        tk.Button(container, text="Finish & Pay", bg="green", fg="white", font=("Arial", 12, "bold"), width=18,
-                  command=self.show_final_receipt).pack(pady=5)
+        # Bottom Navigation Buttons (re-added and grouped)
+        bottom_nav_frame = tk.Frame(container)
+        bottom_nav_frame.pack(pady=10) # Centered as a block
 
         tk.Button(bottom_nav_frame, text="View Cart", bg="blue", fg="white", font=("Arial", 12, "bold"), width=18,
                   command=lambda: self.show_cart(restaurant, selected_category)).pack(side="left", padx=5)
