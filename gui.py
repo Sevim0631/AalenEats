@@ -138,6 +138,21 @@ class AalenEatsApp:
         tk.Button(nav_frame, text="Home", fg="blue", font=("Arial", 11, "bold"),
                   command=self.show_cuisine_selection).pack(side="left", padx=5)
 
+    def _update_menu_item_quantity(self, item, quantity_change, restaurant, selected_category):
+        # Get current quantity from order
+        current_quantity = self.current_order.selected_items.get(item.id, {}).get('quantity', 0)
+        new_quantity = current_quantity + quantity_change
+
+        if new_quantity > 0:
+            self.current_order.set_item_quantity(item, new_quantity)
+        else:
+            # If new_quantity is 0 or less, remove the item from the cart
+            if item.id in self.current_order.selected_items:
+                del self.current_order.selected_items[item.id]
+
+        # Refresh the entire menu to reflect the quantity change
+        self.show_menu(restaurant, selected_category)
+
     def show_menu(self, restaurant, selected_category):
         """Schritt 4: Filtert Gerichte."""
         container = self.create_scrollable_container()
