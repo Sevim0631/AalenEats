@@ -32,7 +32,7 @@ class AalenEatsApp:
             lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
         )
 
-        canvas.create_window((0, 0), window=scrollable_frame, anchor="nw", width=400)
+        canvas.create_window((0, 0), window=scrollable_frame, anchor="nw", width=600) # Adjusted canvas width
         canvas.configure(yscrollcommand=scrollbar.set)
 
         canvas.pack(side="left", fill="both", expand=True)
