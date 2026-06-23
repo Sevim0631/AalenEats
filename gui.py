@@ -9,8 +9,7 @@ class AalenEatsApp:
     def __init__(self, root, restaurant_data):
         self.root = root
         self.root.title("AalenEats - Restaurant Selector")
-        self.root.geometry("400x600")
-
+        self.root.geometry("600x600") # Increased window width
         self.restaurants = restaurant_data
         self.current_order = Order()
 
