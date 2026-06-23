@@ -247,10 +247,19 @@ class AalenEatsApp:
                 item_row_frame = tk.Frame(cart_frame, bg="#f8f9fa")
                 item_row_frame.pack(fill="x", padx=10, pady=2)
 
-                tk.Label(item_row_frame, text=f"{item.name[:22]:<22} ... {item.price:.2f}€",
-                         font=("Courier", 11), bg="#f8f9fa", anchor="w").pack(side="left", fill="x", expand=True)
-                tk.Button(item_row_frame, text="X", fg="red", font=("Arial", 9, "bold"),
-                          command=lambda i=item: self.remove_item_from_cart(i, restaurant, selected_category)).pack(side="right")
+                # Item Name and Price
+                tk.Label(item_row_frame, text=f"{item.name[:20]:<20} {item.price:.2f}€",
+                         font=("Courier", 11), bg="#f8f9fa", anchor="w").pack(side="left")
+
+                # Quantity adjustment buttons and label
+                quantity_frame = tk.Frame(item_row_frame, bg="#f8f9fa")
+                quantity_frame.pack(side="right")
+
+                tk.Button(quantity_frame, text="-", font=("Arial", 9, "bold"), width=2,
+                          command=lambda i=item: self.update_item_quantity(i, -1, restaurant, selected_category)).pack(side="left")
+                tk.Label(quantity_frame, text=f"x{quantity}", font=("Arial", 10), bg="#f8f9fa").pack(side="left", padx=5)
+                tk.Button(quantity_frame, text="+", font=("Arial", 9, "bold"), width=2,
+                          command=lambda i=item: self.update_item_quantity(i, 1, restaurant, selected_category)).pack(side="left")
 
             tk.Label(container, text="--------------------------------", font=("Courier", 12)).pack()
 
