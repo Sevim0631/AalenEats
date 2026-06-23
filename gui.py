@@ -12,9 +12,6 @@ class AalenEatsApp:
         self.root.geometry("600x600") # Increased window width
         self.restaurants = restaurant_data
         self.current_order = Order()
-
-        self.logo_image = None # To keep a reference to the image, preventing garbage collection
-
         self.show_start_screen() # Start with the new welcome screen
 
     def create_scrollable_container(self):

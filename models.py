@@ -39,17 +39,29 @@ class Restaurant(DomainObject):
 
 class Order:
     def __init__(self):
-        self.selected_items = []
+        self.selected_items = {} # Changed to dictionary to store item and quantity
 
-    def add_item(self, item):
-        self.selected_items.append(item)
+    def add_item(self, item, quantity=1):
+        if item.id in self.selected_items:
+            self.selected_items[item.id]['quantity'] += quantity
+        else:
+            self.selected_items[item.id] = {'item': item, 'quantity': quantity}
 
-    def remove_item(self, item):
-        if item in self.selected_items:
-            self.selected_items.remove(item)
+    def remove_item(self, item, quantity=1):
+        if item.id in self.selected_items:
+            self.selected_items[item.id]['quantity'] -= quantity
+            if self.selected_items[item.id]['quantity'] <= 0:
+                del self.selected_items[item.id]
+
+    def set_item_quantity(self, item, quantity):
+        if quantity <= 0:
+            if item.id in self.selected_items:
+                del self.selected_items[item.id]
+        else:
+            self.selected_items[item.id] = {'item': item, 'quantity': quantity}
 
     def clear_cart(self):
         self.selected_items.clear()
 
     def get_total_price(self):
-        return sum(item.price for item in self.selected_items)
+        return sum(data['item'].price * data['quantity'] for data in self.selected_items.values())
