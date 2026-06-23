@@ -284,8 +284,10 @@ class AalenEatsApp:
         receipt_frame = tk.Frame(container, bg="#f8f9fa", bd=1, relief="solid")
         receipt_frame.pack(pady=10, fill="x", padx=20)
 
-        for item in self.current_order.selected_items:
-            tk.Label(receipt_frame, text=f"{item.name[:22]:<22} ... {item.price:.2f}€",
+        for item_id, data in self.current_order.selected_items.items():
+            item = data['item']
+            quantity = data['quantity']
+            tk.Label(receipt_frame, text=f"{item.name[:22]:<22} x{quantity} ... {item.price:.2f}€",
                      font=("Courier", 11), bg="#f8f9fa", anchor="w").pack(fill="x", padx=10, pady=2)
 
         tk.Label(container, text="--------------------------------", font=("Courier", 12)).pack()
