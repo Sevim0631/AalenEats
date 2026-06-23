@@ -210,6 +210,7 @@ class AalenEatsApp:
         tk.Button(nav_frame, text="Home", fg="blue", font=("Arial", 11, "bold"),
                   command=self.show_cuisine_selection).pack(side="left", padx=5)
 
+
     def add_to_cart(self, item):
         # This method is now implicitly handled by _update_menu_item_quantity when adding 1
         # Keeping it for now, but it's not called directly from the menu item display anymore
