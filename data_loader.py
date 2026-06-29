@@ -52,6 +52,6 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
             item_class = class_mapping.get(category, MenuItem)
             menu_items.append(item_class(item_name, float(price)))
 
-            restaurants_pool.append(Restaurant(name, cuisine, menu_items))
+        restaurants_pool.append(Restaurant(name, cuisine, menu_items))
 
     return restaurants_pool
