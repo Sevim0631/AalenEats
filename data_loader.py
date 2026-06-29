@@ -37,7 +37,6 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
         restaurants["Cuisine"],
         restaurants["Menu File"]
     ):
-        print("Loading:", menu_file)
         menu = pd.read_csv("data/" + menu_file)
         menu_items = []
 
