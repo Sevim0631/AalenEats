@@ -35,7 +35,7 @@ class Restaurant(DomainObject):
         super().__init__()
         self.name = name
         self.cuisine_type = cuisine_type
-        self.menu_items = menu_items  # Liste aus MenuItem-Objekten
+        self.menu_items = menu_items if menu_items is not None else [] # Liste aus MenuItem-Objekten
 
 class Order:
     def __init__(self):
