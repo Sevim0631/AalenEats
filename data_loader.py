@@ -8,11 +8,24 @@ from models import (
 def load_data_from_csv(master_csv_path="data/restaurants.csv"):
 
     class_mapping = {
-        "Main_Dish": Main_Dish, "Appetizer": Appetizer, "Pasta": Pasta,
-        "Noodle": Noodle, "Rice": Rice, "Soup": Soup, "Dessert": Dessert,
-        "Coffee_Types": Coffee_Types, "Burrito": Burrito, "Alcoholic_Drink": Alcoholic_Drink,
-        "Maultasche": Maultasche, "Extras": Extras, "Non_Alcoholic_Drink": Non_Alcoholic_Drink,
-        "Taco": Taco, "Pizza": Pizza , "Döner" : Döner, "Pide" : Pide, "Burger": Burger
+        "Pizza": Pizza,
+        "Burger": Burger,
+        "Pasta": Pasta,
+        "Dessert": Dessert,
+        "Main_Dish": Main_Dish,
+        "Appetizer": Appetizer,
+        "Soup": Soup,
+        "Rice": Rice,
+        "Noodle": Noodle,
+        "Coffee_Types": Coffee_Types,
+        "Burrito": Burrito,
+        "Alcoholic_Drink": Alcoholic_Drink,
+        "Maultasche": Maultasche,
+        "Extras": Extras,
+        "Non_Alcoholic_Drink": Non_Alcoholic_Drink,
+        "Taco": Taco,
+        "Döner": Döner,
+        "Pide": Pide,
     }
 
     restaurants_pool = []
