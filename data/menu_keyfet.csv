@@ -1,4 +1,4 @@
-﻿Item Name,Category,Price
+Item Name,Category,Price
 Classic Döner,Döner,8.00
 Chicken Vegetable Döner,Döner,8.50
 Döner Dürüm,Döner,8.50
@@ -18,22 +18,22 @@ Falafel Dürüm,Döner,8.00
 Falafel Box,Döner,7.00
 Falafel Plate,Döner,11.50
 Mixed Salat,Extras,7.00
-Double Smashed Cheese - 2 x Beef Patty, Cheddar, Smashy Sauce, Pickles and Caramelized Onions,Burger,9.50
-Chili Cheese - 2 x Beef Patty, Cheddar, Chili Cheese Sauce, Jalapeños and Caramelized Onions,Burger,9.90
-Double Smashed BBQ - 2 x Beef Patty, Cheddar, Smashy Sauce, BBQ Sauce, Caramelized Onions, Beef Bacon and Crispy Fried Onions,Burger,9.90
-Double Smashed Keyf - 2 x Beef Patty, Cheddar, Tomatoes, Lettuce, Smashy Sauce, Pickles, Caramelized Onions and Beef Bacon,Burger,9.90
-Onion Paradise - 2 x Beef Patty, Cheddar, Smashy Sauce, Garlic Mayo, Caramelized Onions, Crispy Fried Onions and Breaded Onion Ring,Burger,9.90
-Spicy Double Smashed - 2 x Beef Patty, Cheddar, Spicy Smashy Sauce, Pickles, Caramelized Onions, Beef Bacon and Crispy Fried Onions,Burger,9.90
-Crunchy Chicken - Special Salad, Cheddar, Pickles and Garlic Mayo,Burger,9.50
-Chicken Chili Cheese - Special Salad, Jalapeños and Chili Cheese Sauce,Burger,9.90
-Fresh Chicken - Arugula, Tomato, Cheddar, Pickles, Garlic Mayo and Crispy Fried Onions,Burger,9.90
-Hot Honey Crunch Chicken - Red Cabbage Mayo Slaw, Cheddar, Pickles, Honey Mustard, Sweet Chili Sauce and Potato Chips,Burger,9.90
-Chicken BBQ - Special Salad, Cheddar, BBQ Sauce and Crispy Fried Onions,Burger,9.50
-No Chicken (Vegetarian/Vegan) - Special Salad, Arugula, Tomato, Cheddar, Pickles and Smashy Sauce,Burger,9.50
-Mac & Chicken - Mac'n'Cheese with Chicken Tenders, Honey Mustard, Homemade Coleslaw and Crispy Fried Onions,Appetizer,10.90
-Golden Chicken - Crunchy Chicken, Cheddar, Pickles, Special Salad and Honey Mustard Sauce in Brioche Toast Bread,Appetizer,10.90
+"Double Smashed Cheese - 2 x Beef Patty,Cheddar,Smashy Sauce,Pickles and Caramelized Onions",Burger,9.50
+"Chili Cheese - 2 x Beef Patty,Cheddar,Chili Cheese Sauce,Jalapeños and Caramelized Onions",Burger,9.90
+"Double Smashed BBQ - 2 x Beef Patty,Cheddar,Smashy Sauce,BBQ Sauce,Caramelized Onions,Beef Bacon and Crispy Fried Onions",Burger,9.90
+"Double Smashed Keyf - 2 x Beef Patty,Cheddar,Tomatoes,Lettuce,Smashy Sauce,Pickles,Caramelized Onions and Beef Bacon",Burger,9.90
+"Onion Paradise - 2 x Beef Patty,Cheddar,Smashy Sauce,Garlic Mayo,Caramelized Onions,Crispy Fried Onions and Breaded Onion Ring",Burger,9.90
+"Spicy Double Smashed - 2 x Beef Patty,Cheddar,Spicy Smashy Sauce,Pickles,Caramelized Onions,Beef Bacon and Crispy Fried Onions",Burger,9.90
+"Crunchy Chicken - Special Salad,Cheddar,Pickles and Garlic Mayo",Burger,9.50
+"Chicken Chili Cheese - Special Salad,Jalapeños and Chili Cheese Sauce",Burger,9.90
+"Fresh Chicken - Arugula,Tomato,Cheddar,Pickles,Garlic Mayo and Crispy Fried Onions",Burger,9.90
+"Hot Honey Crunch Chicken - Red Cabbage Mayo Slaw,Cheddar,Pickles,Honey Mustard,Sweet Chili Sauce and Potato Chips",Burger,9.90
+"Chicken BBQ - Special Salad,Cheddar,BBQ Sauce and Crispy Fried Onions",Burger,9.50
+"No Chicken (Vegetarian/Vegan) - Special Salad,Arugula,Tomato,Cheddar,Pickles and Smashy Sauce",Burger,9.50
+"Mac & Chicken - Mac'n'Cheese with Chicken Tenders,Honey Mustard,Homemade Coleslaw and Crispy Fried Onions",Appetizer,10.90
+"Golden Chicken - Crunchy Chicken,Cheddar,Pickles,Special Salad and Honey Mustard Sauce in Brioche Toast Bread",Appetizer,10.90
 Crunchy Chicken Bites - with French Fries,Appetizer,9.50
-Golden Beef - 2x Beef, Cheddar, Pickles, Caramelized Onions and Homemade Sauce in Brioche Toast Bread,Appetizer,10.90
+"Golden Beef - 2x Beef,Cheddar,Pickles,Caramelized Onions and Homemade Sauce in Brioche Toast Bread",Appetizer,10.90
 Crunchy Chicken Tenders (without French Fries) - Plain Chicken Tenders,Appetizer,6.50
 Crunchy Chicken Tenders (with French Fries) - Chicken Tenders served with French Fries,Appetizer,9.50
 French Fries,Appetizer,3.90

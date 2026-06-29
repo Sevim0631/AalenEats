@@ -1,4 +1,4 @@
-﻿Item Name,Category,Price
+Item Name,Category,Price
 Maultasche,Appetizer,9.00
 Swiss sausage salad,Appetizer,10.00
 Smoked trout,Appetizer,15.00
@@ -12,7 +12,7 @@ Swabian Maultaschen,Maultasche,17.00
 Maultaschen Viennese style,Maultasche,17.00
 Maultaschen Beer Hall,Maultasche,18.00
 Swabian cheese spaetzle,Main_Dish,14.00
-Lentils, Spätzle , Saiten,Main_Dish,13.00
+"Lentils, Spätzle , Saiten",Main_Dish,13.00
 Schnitzel “Viennese style”,Main_Dish,16.00
 Cream schnitzel,Main_Dish,13.00
 Swabian onion roast beef,Main_Dish,29.00

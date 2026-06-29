@@ -1,5 +1,5 @@
 Item Name,Category,Price
-Table Water (0.2 l) ,Non_Alcoholic_Drink,2.5
+Table Water (0.2 l),Non_Alcoholic_Drink,2.5
 Table Water (0.4 l),Non_Alcoholic_Drink,3.5
 Selters Mineral Water,Non_Alcoholic_Drink,6.5
 Coca Cola,Non_Alcoholic_Drink,4.0
@@ -55,7 +55,7 @@ Mango Schnapps,Alcoholic_Drink,4.0
 Mango Liqueur,Alcoholic_Drink,4.0
 Coconut Schnapps,Alcoholic_Drink,4.0
 Indian Rum Old Monk,Alcoholic_Drink,4.0
-Samtrot Rose, Kabinett,Alcoholic_Drink,6.0
+"Samtrot Rose,Kabinett",Alcoholic_Drink,6.0
 Lemberger Wine,Alcoholic_Drink,6.0
 Schnaufer Sparkling Wine,Alcoholic_Drink,6.0
 Indian Red Wine,Alcoholic_Drink,6.5
@@ -77,7 +77,7 @@ Aloo Tikki,Appetizer,8.0
 Samosa Chaat (Deconstructed Samosa with Chickpeas & Yogurt),Appetizer,10.0
 Chana Chaat (Spiced Tangy Chickpea Salad),Appetizer,8.0
 Kheera Raita (Spiced Cucumber Yogurt Dip),Extras,5.0
-Mixed Raita (Yogurt with Onions, Tomatoes & Cucumber),Extras,5.5
+"Mixed Raita (Yogurt with Onions,Tomatoes & Cucumber)",Extras,5.5
 Jeera Rice,Extras,5.5
 Plain Basmati Rice,Rice,4.5
 Tomato Salad,Extras,7.5

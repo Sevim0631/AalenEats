@@ -1,59 +1,59 @@
-﻿Item Name,Category,Price
-Rotisserie Pita with Choice of Rotisserie Meat (Veal or Chicken), Salad and Sauce",Döner,7.0
-Rotisserie Pita Small with Choice of Rotisserie Meat (Veal or Chicken), Salad and Sauce",Döner,5.5
-Rotisserie Pita with More Meat with Choice of Rotisserie Meat (Veal or Chicken), Salad and Sauce",Döner,8.5
-Rotisserie Plate Small with Choice of Rotisserie Meat (Veal or Chicken), Fries or Rice, Salad and Sauce",Döner,9.5
-Rotisserie Plate Large Choice of Rotisserie Meat (Veal or Chicken), Fries or Rice, Salad and Sauce",Döner,11.5
-Special Doner Kebab Style Choice of Rotisserie Meat (Veal or Chicken), Chili Cheese, Jalapenos, Salad and Sauce",Döner,8.0
-Vegetarian Rotisserie Choice of Rotisserie Meat (Veal or Chicken), Salad and Sauce",Döner,6.0
-Rotisserie Box with Choice of Rotisserie Meat (Veal or Chicken), Fries, Tzatziki and Sauce",Döner,7.0
-Rotisserie Box Large with Choice of Rotisserie Meat (Veal or Chicken), Fries, Sauce Including Salad",Döner,8.5
+Item Name,Category,Price
+"Rotisserie Pita with Choice of Rotisserie Meat (Veal or Chicken),Salad and Sauce""",Döner,7.0
+"Rotisserie Pita Small with Choice of Rotisserie Meat (Veal or Chicken),Salad and Sauce""",Döner,5.5
+"Rotisserie Pita with More Meat with Choice of Rotisserie Meat (Veal or Chicken),Salad and Sauce""",Döner,8.5
+"Rotisserie Plate Small with Choice of Rotisserie Meat (Veal or Chicken),Fries or Rice,Salad and Sauce""",Döner,9.5
+"Rotisserie Plate Large Choice of Rotisserie Meat (Veal or Chicken),Fries or Rice,Salad and Sauce""",Döner,11.5
+"Special Doner Kebab Style Choice of Rotisserie Meat (Veal or Chicken),Chili Cheese,Jalapenos,Salad and Sauce""",Döner,8.0
+"Vegetarian Rotisserie Choice of Rotisserie Meat (Veal or Chicken),Salad and Sauce""",Döner,6.0
+"Rotisserie Box with Choice of Rotisserie Meat (Veal or Chicken),Fries,Tzatziki and Sauce""",Döner,7.0
+"Rotisserie Box Large with Choice of Rotisserie Meat (Veal or Chicken),Fries,Sauce Including Salad""",Döner,8.5
 Nuggets 6-Pack,Appetizer,4.9
 Nuggets 9-Pack,Appetizer,5.9
 Chili Cheese Nuggets 6-Pack,Appetizer,5.5
 Mozzarella Sticks 5-Pack,Appetizer,4.9
-Rollo Rotisserie with Rotisserie (Veal), Salad, Tzatziki and Sauce",Appetizer,8.5
-Rollo Chicken with Rotisserie (Veal), Salad, Tzatziki and Sauce",Appetizer,8.5
+"Rollo Rotisserie with Rotisserie (Veal),Salad,Tzatziki and Sauce""",Appetizer,8.5
+"Rollo Chicken with Rotisserie (Veal),Salad,Tzatziki and Sauce""",Appetizer,8.5
 Rollo Tuna with Tuna and Sauce,Appetizer,8.5
-Rollo Sucuk with Salad, Tzatziki and Sauce",Appetizer,8.5
-Rollo Vegetarian with Salad, Tzatziki and Sauce",Appetizer,7.5
-Falafel Pocket with Salad, Tzatziki and Sauce",Appetizer,7.0
-Falafel Wrap with Salad, Tzatziki and Sauce",Appetizer,7.0
-Falafel Dürüm with Salad, Tzatziki and Sauce",Appetizer,7.0
-Falafel Plate with Salad, Tzatziki and Sauce",Appetizer,7.0
+"Rollo Sucuk with Salad,Tzatziki and Sauce""",Appetizer,8.5
+"Rollo Vegetarian with Salad,Tzatziki and Sauce""",Appetizer,7.5
+"Falafel Pocket with Salad,Tzatziki and Sauce""",Appetizer,7.0
+"Falafel Wrap with Salad,Tzatziki and Sauce""",Appetizer,7.0
+"Falafel Dürüm with Salad,Tzatziki and Sauce""",Appetizer,7.0
+"Falafel Plate with Salad,Tzatziki and Sauce""",Appetizer,7.0
 Falafel,Appetizer,1.5
-Snack Box - 3 Nuggets, 3 Chili Cheese Nuggets, 3 Mozzarella Sticks and 3 Falafel with 1 Dip of Your Choice",Appetizer,9.5
+"Snack Box - 3 Nuggets,3 Chili Cheese Nuggets,3 Mozzarella Sticks and 3 Falafel with 1 Dip of Your Choice""",Appetizer,9.5
 Pizza Margherita with Tomato Sauce and Gouda Cheese (30cm),Pizza,9.0
 Pizza Margherita with Tomato Sauce and Gouda Cheese (40cm),Pizza,16.0
-Pizza Salami with Tomato Sauce, Gouda Cheese and Mushrooms (30cm)",Pizza,10.0
-Pizza Salami with Tomato Sauce, Gouda Cheese and Mushrooms (40cm)",Pizza,18.0
-Tuna Pizza with Tomato Sauce, Gouda Cheese, Onions and Pepperoni (30cm)",Pizza,11.0
-Tuna Pizza with Tomato Sauce, Gouda Cheese, Onions and Pepperoni (0cm)",Pizza,20.0
-Pizza Türkiye with Tomato Sauce, Gouda Cheese, Garlic Sausage, Mushrooms and Pepperoni (30cm)",Pizza,11.0
-Pizza Türkiye with Tomato Sauce, Gouda Cheese, Garlic Sausage, Mushrooms and Pepperoni (40cm)",Pizza,20.0
-Vegetarian Pizza with Tomato Sauce, Gouda Cheese, Broccoli, Bell Peppers, Mushrooms and Feta (30cm)",Pizza,11.0
-Vegetarian Pizza with Tomato Sauce, Gouda Cheese, Broccoli, Bell Peppers, Mushrooms and Feta (40cm)",Pizza,20.0"Pizza BeBo's with Tomato Sauce, Gouda Cheese, Broccoli, Rotisserie Spit, Onions and Barbecue Sauce (30cm)",Pizza,12.0
-Pizza BeBo's with Tomato Sauce, Gouda Cheese, Broccoli, Rotisserie Spit, Onions and Barbecue Sauce (40cm)",Pizza,21.0
-Pizza Panini with Tomato Sauce, Hollandaise, Basil, Mozzarella and Cherry Tomatoes (30 cm)",Pizza,12.0
-Pizza Panini with Tomato Sauce, Hollandaise, Basil, Mozzarella and Cherry Tomatoes (40 cm)",Pizza,21.0
-Pizza Orient with Tomato Sauce, Lamb, Peppers and Sriracha Sauce (Spicy)(30 cm)",Pizza,12.0
-Pizza Orient with Tomato Sauce, Lamb, Peppers and Sriracha Sauce (Spicy)(40 cm)",Pizza,21.0
-Calzone with Tomato Sauce, Gouda, Tuna or Rotisserie",Pizza,12.0
-Viking Boat with Tomato Sauce, Gouda, Rotisserie, Feta and Pepperoni",Pizza,12.0
+"Pizza Salami with Tomato Sauce,Gouda Cheese and Mushrooms (30cm)""",Pizza,10.0
+"Pizza Salami with Tomato Sauce,Gouda Cheese and Mushrooms (40cm)""",Pizza,18.0
+"Tuna Pizza with Tomato Sauce,Gouda Cheese,Onions and Pepperoni (30cm)""",Pizza,11.0
+"Tuna Pizza with Tomato Sauce,Gouda Cheese,Onions and Pepperoni (0cm)""",Pizza,20.0
+"Pizza Türkiye with Tomato Sauce,Gouda Cheese,Garlic Sausage,Mushrooms and Pepperoni (30cm)""",Pizza,11.0
+"Pizza Türkiye with Tomato Sauce,Gouda Cheese,Garlic Sausage,Mushrooms and Pepperoni (40cm)""",Pizza,20.0
+"Vegetarian Pizza with Tomato Sauce,Gouda Cheese,Broccoli,Bell Peppers,Mushrooms and Feta (30cm)""",Pizza,11.0
+"Vegetarian Pizza with Tomato Sauce,Gouda Cheese,Broccoli,Bell Peppers,Mushrooms and Feta (40cm)"",Pizza,20.0""Pizza BeBo's with Tomato Sauce,Gouda Cheese,Broccoli,Rotisserie Spit,Onions and Barbecue Sauce (30cm)""",Pizza,12.0
+"Pizza BeBo's with Tomato Sauce,Gouda Cheese,Broccoli,Rotisserie Spit,Onions and Barbecue Sauce (40cm)""",Pizza,21.0
+"Pizza Panini with Tomato Sauce,Hollandaise,Basil,Mozzarella and Cherry Tomatoes (30 cm)""",Pizza,12.0
+"Pizza Panini with Tomato Sauce,Hollandaise,Basil,Mozzarella and Cherry Tomatoes (40 cm)""",Pizza,21.0
+"Pizza Orient with Tomato Sauce,Lamb,Peppers and Sriracha Sauce (Spicy)(30 cm)""",Pizza,12.0
+"Pizza Orient with Tomato Sauce,Lamb,Peppers and Sriracha Sauce (Spicy)(40 cm)""",Pizza,21.0
+"Calzone with Tomato Sauce,Gouda,Tuna or Rotisserie""",Pizza,12.0
+"Viking Boat with Tomato Sauce,Gouda,Rotisserie,Feta and Pepperoni""",Pizza,12.0
 Pide with Cheese Filling,Pide,8.0
 Pide with Sucuk (Garlic Sausage),Pide,9.0
 Pide with Minced Meat Filling (Beef),Pide,9.0
 Pide with Pieces of Meat Cut into Cubes,Pide,9.0
 Turkish Pizza Without Everything,Pide,4.0
 Turkish Pizza with Salad and Sauce,Pide,6.0
-Turkish Pizza Rotisserie with Your Choice of Rotisserie Meat (Veal or Chicken), Salad, Tzatziki and Sauce",Pide,7.5
-Turkish Tuna Pizza with Tuna, Salad, Tzatziki and Sauce",Pide,7.5
+"Turkish Pizza Rotisserie with Your Choice of Rotisserie Meat (Veal or Chicken),Salad,Tzatziki and Sauce""",Pide,7.5
+"Turkish Tuna Pizza with Tuna,Salad,Tzatziki and Sauce""",Pide,7.5
 Turkish Pizza Plate with 2x Turkish Pizzas Cut into Small Pieces and an Extra Salad,Pide,8.5
 Extra Cheese,Extras,1.0
 Mixed Salad,Extras,6.0
 Coleslaw,Extras,4.0
-Tuna Salad with Salad, Sauce, Gouda Cheese, Lemon and Tuna",Extras,9.0
-Öz Antep Salad with Salad, Sauce, Cheese, Mozzarella, Olives",Extras,9.0
+"Tuna Salad with Salad,Sauce,Gouda Cheese,Lemon and Tuna""",Extras,9.0
+"Öz Antep Salad with Salad,Sauce,Cheese,Mozzarella,Olives""",Extras,9.0
 Herb Sauce,Extras,2.0
 Tzatziki,Extras,2.0
 Curry,Extras,2.0
@@ -61,26 +61,26 @@ Garlic Sauce,Extras,2.0
 Cocktail,Extras,2.0
 Hot Sauce,Extras,2.0
 Mayo or Ketchup,Extras,0.5
-Köfte Plate / Meatball with 5 Grilled Köfte with Salad, Sauce, and Fries or Rice",Main_Dish,16.0
+"Köfte Plate / Meatball with 5 Grilled Köfte with Salad,Sauce,and Fries or Rice""",Main_Dish,16.0
 Köfte Pita with 3 Köfte Grilled with Salad and Sauce in Flatbread,Main_Dish,8.0
-Adana Plate with Lamb Mince Skewer with Salad and Sauce, Chips or Rice",Main_Dish,16.0
+"Adana Plate with Lamb Mince Skewer with Salad and Sauce,Chips or Rice""",Main_Dish,16.0
 Adana Dürüm with Minced Lamb Skewer with Salad and Sauce Rolled in Yufka Bread,Main_Dish,10.0
-Kuzbasi with Roasted Lamb Pieces, Cut into Cubes, with Salad and Sauce",Main_Dish,18.0
-Kusbasi Dürüm with Roasted Pieces of Lamb, Cut into Cubes, Rolled in Yufka Bread with Salad and Sauce",Main_Dish,10.0
-Tavuk Sis with Chicken Skewer with Rice, Salad and Sauce",Main_Dish,14.0
-Tavuk Sis Dürüm with Chicken Skewer with Rice, Salad and Sauce, Rolled in Yufka Bread",Main_Dish,9.0
-Tavuk Pirzola with Chicken Cutlet with Rice, Salad and Sauce",Main_Dish,15.0
-Tavuk Kanat with Chicken Wings with Rice, Salad and Sauce",Main_Dish,14.0
-Lamb Chop Plate with 3 Grilled Lamb Chops with Salad, Tzatziki and Onions, Served with Fries or Rice",Main_Dish,18.0
-Rotisserie Gratin with Rotisserie Meat with Onions, Special Sauce, Topped with Cheese, Served with a Small Salad",Main_Dish,12.5
-Patlican Kebab with Eggplant Skewer with Minced Lamb, Salad and Sauce",Main_Dish,18.0
-Öz Antep Teller with 1 Grilled Lamb Chop, 2 Köfte, Rotisserie (Veal or Chicken) with Salad, Tzatziki, Onions, Served with Fries or Rice",Main_Dish,20.0
+"Kuzbasi with Roasted Lamb Pieces,Cut into Cubes,with Salad and Sauce""",Main_Dish,18.0
+"Kusbasi Dürüm with Roasted Pieces of Lamb,Cut into Cubes,Rolled in Yufka Bread with Salad and Sauce""",Main_Dish,10.0
+"Tavuk Sis with Chicken Skewer with Rice,Salad and Sauce""",Main_Dish,14.0
+"Tavuk Sis Dürüm with Chicken Skewer with Rice,Salad and Sauce,Rolled in Yufka Bread""",Main_Dish,9.0
+"Tavuk Pirzola with Chicken Cutlet with Rice,Salad and Sauce""",Main_Dish,15.0
+"Tavuk Kanat with Chicken Wings with Rice,Salad and Sauce""",Main_Dish,14.0
+"Lamb Chop Plate with 3 Grilled Lamb Chops with Salad,Tzatziki and Onions,Served with Fries or Rice""",Main_Dish,18.0
+"Rotisserie Gratin with Rotisserie Meat with Onions,Special Sauce,Topped with Cheese,Served with a Small Salad""",Main_Dish,12.5
+"Patlican Kebab with Eggplant Skewer with Minced Lamb,Salad and Sauce""",Main_Dish,18.0
+"Öz Antep Teller with 1 Grilled Lamb Chop,2 Köfte,Rotisserie (Veal or Chicken) with Salad,Tzatziki,Onions,Served with Fries or Rice""",Main_Dish,20.0
 Menu 1 Doner-Style Rotisserie Pita - with Fries and a 0.33l Drink,Main_Dish,11.5
 Menu 2 Turkish Pizza - with Fries and a 0.33l Drink,Main_Dish,12.0
 Menu 3 Doner-Style Wrap - with Fries and a 0.33l Drink,Main_Dish,13.0
 Menu 4 Large Pizza (30 cm) - with Fries and a 0.33l Drink,Main_Dish,12.5
-Coke, Fanta, Sprite 0.33 l",Non_Alcoholic_Drink,2.0
-Coke, Fanta, Sprite 1 Liter",Non_Alcoholic_Drink,3.5
+"Coke,Fanta,Sprite 0.33 l""",Non_Alcoholic_Drink,2.0
+"Coke,Fanta,Sprite 1 Liter""",Non_Alcoholic_Drink,3.5
 Red Bull 0.25 l,Non_Alcoholic_Drink,2.5
 Still Water 0.5l,Non_Alcoholic_Drink,1.5
 Ayran 0.25l Turkish Soft Drink,Non_Alcoholic_Drink,2.0

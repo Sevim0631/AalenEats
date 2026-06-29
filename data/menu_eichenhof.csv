@@ -1,4 +1,4 @@
-﻿Item Name,Category,Price
+Item Name,Category,Price
 Homemade Beef Broth with Maultaschen (meat-filled dumplings),Main_Dish,8.50
 Homemade Beef Broth with Flädle (sliced savory pancakes),Main_Dish,8.00
 Small Sausage Salad (Wurstsalat),Extras,10.90
@@ -13,11 +13,11 @@ Small Napkin Dumplings(Serviettenknödel),Appetizer,14.40
 Large Napkin Dumplings(Serviettenknödel),Appetizer,16.40
 Small Alb-Feld Lentils with Spätzle,Appetizer,12.90
 Large Alb-Feld Lentils with Spätzle,Appetizer,13.90
- Sour Tripe(Saure Kutteln) with bread,Appetizer,11.90
- Sour Tripe(Saure Kutteln) with potatoes,Appetizer,15.50
+Sour Tripe(Saure Kutteln) with bread,Appetizer,11.90
+Sour Tripe(Saure Kutteln) with potatoes,Appetizer,15.50
 Small Cheese Spätzle(Käsespätzle),Appetizer,14.50
 Large Cheese Spätzle(Käsespätzle),Appetizer,16.50
- Beef Tartare,Appetizer,19.90
+Beef Tartare,Appetizer,19.90
 Mixed Salad,Extras,11.90
 Mixed Salad with Viennese Fried Chicken,Extras,16.50
 Mixed Salad with House - Smoked Salmon,Extras,17.70
@@ -58,68 +58,68 @@ Small Homemade Apple Fritters,Dessert,8.20
 Small Kaiserschmarrn (shredded sweet pancake),Dessert,9.50
 Large Kaiserschmarrn (shredded sweet pancake),Dessert,12.50
 Waldstube Love: Vanilla ice cream with hot raspberries and oat crunch,Dessert,8.20
-1 Scoop of Ice Cream (Chocolate, Vanilla, Strawberry, or Walnut),Dessert,2.80
-1 Scoop of Fruit Sorbet (Cassis, Lemon, or Passion Fruit),Dessert,2.80
-Gerolsteiner Mineralwasser 0,25l,Non_Alcoholic_Drink,3.20
-Gerolsteiner Mineralwasser 0,75l,Non_Alcoholic_Drink,6.20
-Tafelwasser 0,2l,Non_Alcoholic_Drink,2.50
-Tafelwasser 0,4l,Non_Alcoholic_Drink,3.50
-Afri Cola 0,2l,Non_Alcoholic_Drink,3.20
-Afri Cola 0,4l,Non_Alcoholic_Drink,4.00
-Afri Cola Light 0,33l,Non_Alcoholic_Drink,3.50
-Bluna 0,2l,Non_Alcoholic_Drink,3.20
-Bluna 0,4l,Non_Alcoholic_Drink,4.00
-Bluna Zitrone 0,2l,Non_Alcoholic_Drink,3.20
-Bluna Zitrone 0,4l,Non_Alcoholic_Drink,4.00
-Almdudler 0,33l,Non_Alcoholic_Drink,3.50
-Fruchtsäfte 0,2l,Non_Alcoholic_Drink,3.30
-Fruchtsäfte 0,4l,Non_Alcoholic_Drink,4.90
-Saftschorle 0,2l,Non_Alcoholic_Drink,2.90
-Saftschorle 0,4l,Non_Alcoholic_Drink,4.60
-Paulaner Spezi 0,5l,Non_Alcoholic_Drink,4.00
-Red Bull 0,25l,Non_Alcoholic_Drink,4.00
-Paulaner Hefeweizen 0,3l,Alcoholic_Drink,3.80
-Paulaner Hefeweizen 0,5l,Alcoholic_Drink,4.80
-Chiemseer Hell 0,3l,Alcoholic_Drink,3.80
-Chiemseer Hell 0,5l,Alcoholic_Drink,4.80
-Chiemseer Hell 1,0l,Alcoholic_Drink,9.10
-Wasseralfinger Pils 0,3l,Alcoholic_Drink,3.90
-Radler Süss/Sauer 0,3l,Alcoholic_Drink,3.80
-Radler Süss/Sauer 0,5l,Alcoholic_Drink,4.80
-Hefeweizenradler Süss/Sauer 0,3l,Alcoholic_Drink,3.80
-Hefeweizenradler Süss/Sauer 0,5l,Alcoholic_Drink,4.80
-Monatsbier 0,5l,Alcoholic_Drink,4.80
-Paulaner Kristallweizen 0,5l,Alcoholic_Drink,4.80
-Paulaner Hefeweizen Alkoholfrei 0,5l,Non_Alcoholic_Drink,4.80
-Paulaner Helles Alkoholfrei 0,5l,Non_Alcoholic_Drink,4.80
-Hacker Pschorr Radler Alkoholfrei 0,5l,Non_Alcoholic_Drink,4.80
-Weinmanufaktur Stuttgart Riesling 0,1l,Alcoholic_Drink,3.20
-Weinmanufaktur Stuttgart Riesling 0,2l,Alcoholic_Drink,5.60
-Christian Hirsch Wildklasse Riesling / Chardonnay 0,1l,Alcoholic_Drink,3.50
-Christian Hirsch Wildklasse Riesling / Chardonnay 0,2l,Alcoholic_Drink,6.30
-Christian Hirsch Wildklasse Riesling / Chardonnay 0,75l,Alcoholic_Drink,21.80
-Krämer Straight Riesling 0,1l,Alcoholic_Drink,4.00
-Krämer Straight Riesling 0,2l,Alcoholic_Drink,7.00
-Krämer Straight Riesling 0,75l,Alcoholic_Drink,24.60
-Schmitges Grauschiefer Riesling 0,1l,Alcoholic_Drink,4.00
-Schmitges Grauschiefer Riesling 0,2l,Alcoholic_Drink,7.10
-Schmitges Grauschiefer Riesling 0,75l,Alcoholic_Drink,25.10
-Robert Weil Kiedricher Riesling 0,75l,Alcoholic_Drink,44.00
-Weinschorle Rot/Weiss/Rosé 0,2l,Alcoholic_Drink,5.00
-Villa Sandi II Fresco Prosecco Spumante Brut D.O.C. 0,1l,Alcoholic_Drink,5.00
-Villa Sandi II Fresco Prosecco Spumante Brut D.O.C. 0,75l,Alcoholic_Drink,29.00
-Villa Sandi II Fresco Prosecco Rosé 0,1l,Alcoholic_Drink,5.50
-Villa Sandi II Fresco Prosecco Rosé 0,75l,Alcoholic_Drink,31.00
-Genossenschaftskellerei Heilbronn Zero Alkoholfreier Mousseux 0,1l,Non_Alcoholic_Drink,4.50
-Genossenschaftskellerei Heilbronn Zero Alkoholfreier Mousseux 0,75l,Non_Alcoholic_Drink,27.00
+"1 Scoop of Ice Cream (Chocolate,Vanilla,Strawberry,or Walnut)",Dessert,2.80
+"1 Scoop of Fruit Sorbet (Cassis,Lemon,or Passion Fruit)",Dessert,2.80
+"Gerolsteiner Mineralwasser 0,25l",Non_Alcoholic_Drink,3.20
+"Gerolsteiner Mineralwasser 0,75l",Non_Alcoholic_Drink,6.20
+"Tafelwasser 0,2l",Non_Alcoholic_Drink,2.50
+"Tafelwasser 0,4l",Non_Alcoholic_Drink,3.50
+"Afri Cola 0,2l",Non_Alcoholic_Drink,3.20
+"Afri Cola 0,4l",Non_Alcoholic_Drink,4.00
+"Afri Cola Light 0,33l",Non_Alcoholic_Drink,3.50
+"Bluna 0,2l",Non_Alcoholic_Drink,3.20
+"Bluna 0,4l",Non_Alcoholic_Drink,4.00
+"Bluna Zitrone 0,2l",Non_Alcoholic_Drink,3.20
+"Bluna Zitrone 0,4l",Non_Alcoholic_Drink,4.00
+"Almdudler 0,33l",Non_Alcoholic_Drink,3.50
+"Fruchtsäfte 0,2l",Non_Alcoholic_Drink,3.30
+"Fruchtsäfte 0,4l",Non_Alcoholic_Drink,4.90
+"Saftschorle 0,2l",Non_Alcoholic_Drink,2.90
+"Saftschorle 0,4l",Non_Alcoholic_Drink,4.60
+"Paulaner Spezi 0,5l",Non_Alcoholic_Drink,4.00
+"Red Bull 0,25l",Non_Alcoholic_Drink,4.00
+"Paulaner Hefeweizen 0,3l",Alcoholic_Drink,3.80
+"Paulaner Hefeweizen 0,5l",Alcoholic_Drink,4.80
+"Chiemseer Hell 0,3l",Alcoholic_Drink,3.80
+"Chiemseer Hell 0,5l",Alcoholic_Drink,4.80
+"Chiemseer Hell 1,0l",Alcoholic_Drink,9.10
+"Wasseralfinger Pils 0,3l",Alcoholic_Drink,3.90
+"Radler Süss/Sauer 0,3l",Alcoholic_Drink,3.80
+"Radler Süss/Sauer 0,5l",Alcoholic_Drink,4.80
+"Hefeweizenradler Süss/Sauer 0,3l",Alcoholic_Drink,3.80
+"Hefeweizenradler Süss/Sauer 0,5l",Alcoholic_Drink,4.80
+"Monatsbier 0,5l",Alcoholic_Drink,4.80
+"Paulaner Kristallweizen 0,5l",Alcoholic_Drink,4.80
+"Paulaner Hefeweizen Alkoholfrei 0,5l",Non_Alcoholic_Drink,4.80
+"Paulaner Helles Alkoholfrei 0,5l",Non_Alcoholic_Drink,4.80
+"Hacker Pschorr Radler Alkoholfrei 0,5l",Non_Alcoholic_Drink,4.80
+"Weinmanufaktur Stuttgart Riesling 0,1l",Alcoholic_Drink,3.20
+"Weinmanufaktur Stuttgart Riesling 0,2l",Alcoholic_Drink,5.60
+"Christian Hirsch Wildklasse Riesling / Chardonnay 0,1l",Alcoholic_Drink,3.50
+"Christian Hirsch Wildklasse Riesling / Chardonnay 0,2l",Alcoholic_Drink,6.30
+"Christian Hirsch Wildklasse Riesling / Chardonnay 0,75l",Alcoholic_Drink,21.80
+"Krämer Straight Riesling 0,1l",Alcoholic_Drink,4.00
+"Krämer Straight Riesling 0,2l",Alcoholic_Drink,7.00
+"Krämer Straight Riesling 0,75l",Alcoholic_Drink,24.60
+"Schmitges Grauschiefer Riesling 0,1l",Alcoholic_Drink,4.00
+"Schmitges Grauschiefer Riesling 0,2l",Alcoholic_Drink,7.10
+"Schmitges Grauschiefer Riesling 0,75l",Alcoholic_Drink,25.10
+"Robert Weil Kiedricher Riesling 0,75l",Alcoholic_Drink,44.00
+"Weinschorle Rot/Weiss/Rosé 0,2l",Alcoholic_Drink,5.00
+"Villa Sandi II Fresco Prosecco Spumante Brut D.O.C. 0,1l",Alcoholic_Drink,5.00
+"Villa Sandi II Fresco Prosecco Spumante Brut D.O.C. 0,75l",Alcoholic_Drink,29.00
+"Villa Sandi II Fresco Prosecco Rosé 0,1l",Alcoholic_Drink,5.50
+"Villa Sandi II Fresco Prosecco Rosé 0,75l",Alcoholic_Drink,31.00
+"Genossenschaftskellerei Heilbronn Zero Alkoholfreier Mousseux 0,1l",Non_Alcoholic_Drink,4.50
+"Genossenschaftskellerei Heilbronn Zero Alkoholfreier Mousseux 0,75l",Non_Alcoholic_Drink,27.00
 Prosecco Schorle,Alcoholic_Drink,6.00
 Waldstube Schorle,Alcoholic_Drink,7.50
 Aperol Spritz,Alcoholic_Drink,7.50
 Campari Spritz,Alcoholic_Drink,7.50
 Limoncello Spritz,Alcoholic_Drink,7.50
 Hugo,Alcoholic_Drink,7.50
-Pommery Brut Royal 0,75l,Alcoholic_Drink,72.00
-Pommery Brut Rosé Royal 0,75l,Alcoholic_Drink,83.00
+"Pommery Brut Royal 0,75l",Alcoholic_Drink,72.00
+"Pommery Brut Rosé Royal 0,75l",Alcoholic_Drink,83.00
 Schnäpsle 2cl,Alcoholic_Drink,3.70
 Grappa 2cl,Alcoholic_Drink,4.00
 Ramazotti 4cl,Alcoholic_Drink,4.20

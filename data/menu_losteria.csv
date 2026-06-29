@@ -1,45 +1,45 @@
-﻿Item Name,Category,Price
-San Pellegrino / Acqua Panna 0,50l,Non_Alcoholic_Drink,3.90
-San Pellegrino / Acqua Panna 1,0l,Non_Alcoholic_Drink,6.90
-"Afri Cola, Bluna Orange, Bluna Zitrone 0,33l",Non_Alcoholic_Drink,3.90
-Bluna Cola Mix 0,33l,Non_Alcoholic_Drink,3.90
-Afri Cola light 0,33l,Non_Alcoholic_Drink,3.90
-Crodino 0,10l,Non_Alcoholic_Drink,3.90
-Sanbitter 0,25l,Non_Alcoholic_Drink,3.90
-Schweppes Bitter Lemon 0,25l,Non_Alcoholic_Drink,3.90
-Schweppes Tonic Water 0,25l,Non_Alcoholic_Drink,3.90
-San Pellegrino Aranciata 0,25l,Non_Alcoholic_Drink,3.90
-Apfelsaft 0,20l,Non_Alcoholic_Drink,3.90
-Apfelsaft 0,40l,Non_Alcoholic_Drink,4.50
-Orangensaft 0,20l,Non_Alcoholic_Drink,3.90
-Orangensaft 0,40l,Non_Alcoholic_Drink,4.50
-Johannisbeernektar 0,20l,Non_Alcoholic_Drink,3.90
-Johannisbeernektar 0,40l,Non_Alcoholic_Drink,4.50
-Maracujanektar 0,20l,Non_Alcoholic_Drink,3.90
-Maracujanektar 0,40l,Non_Alcoholic_Drink,4.50
-Ananasnektar 0,20l,Non_Alcoholic_Drink,3.90
-Ananasnektar 0,40l,Non_Alcoholic_Drink,4.50
-Saftschorle 0,20l,Non_Alcoholic_Drink,3.90
-Saftschorle 0,40l,Non_Alcoholic_Drink,4.50
-Jever Fun (Alkoholfrei) 0,33l,Non_Alcoholic_Drink,3.90
-Paulaner Hefeweizen (Alkoholfrei) 0,50l,Non_Alcoholic_Drink,4.50
-Ladenburger Hefeweizen 0,50l,Alcoholic_Drink,4.50
-Wasseralfinger Spezial 0,50l,Alcoholic_Drink,4.50
-Wasseralfinger Pils vom Fass 0,33l,Alcoholic_Drink,3.90
-Radler 0,50l,Alcoholic_Drink,4.20
-TERRE NARDIN VENTI 2 CUVÉE PINK Venetien 0,10l,Alcoholic_Drink,6.90
-TERRE NARDIN VENTI 2 CUVÉE PINK Venetien 0,75l,Alcoholic_Drink,31.90
-FERRARI MAXIMUM BRUT Trient 0,10l,Alcoholic_Drink,7.00
-FERRARI MAXIMUM BRUT Trient 0,75l,Alcoholic_Drink,42.00
-FERRARI ROSÉ BRUT Trient 0,75l,Alcoholic_Drink,49.00
-MOËT CHANDON ICE IMPÉRIAL Frankreich 0,75l,Alcoholic_Drink,150.00
+Item Name,Category,Price
+"San Pellegrino / Acqua Panna 0,50l",Non_Alcoholic_Drink,3.90
+"San Pellegrino / Acqua Panna 1,0l",Non_Alcoholic_Drink,6.90
+"Afri Cola,Bluna Orange,Bluna Zitrone 0,33l",Non_Alcoholic_Drink,3.90
+"Bluna Cola Mix 0,33l",Non_Alcoholic_Drink,3.90
+"Afri Cola light 0,33l",Non_Alcoholic_Drink,3.90
+"Crodino 0,10l",Non_Alcoholic_Drink,3.90
+"Sanbitter 0,25l",Non_Alcoholic_Drink,3.90
+"Schweppes Bitter Lemon 0,25l",Non_Alcoholic_Drink,3.90
+"Schweppes Tonic Water 0,25l",Non_Alcoholic_Drink,3.90
+"San Pellegrino Aranciata 0,25l",Non_Alcoholic_Drink,3.90
+"Apfelsaft 0,20l",Non_Alcoholic_Drink,3.90
+"Apfelsaft 0,40l",Non_Alcoholic_Drink,4.50
+"Orangensaft 0,20l",Non_Alcoholic_Drink,3.90
+"Orangensaft 0,40l",Non_Alcoholic_Drink,4.50
+"Johannisbeernektar 0,20l",Non_Alcoholic_Drink,3.90
+"Johannisbeernektar 0,40l",Non_Alcoholic_Drink,4.50
+"Maracujanektar 0,20l",Non_Alcoholic_Drink,3.90
+"Maracujanektar 0,40l",Non_Alcoholic_Drink,4.50
+"Ananasnektar 0,20l",Non_Alcoholic_Drink,3.90
+"Ananasnektar 0,40l",Non_Alcoholic_Drink,4.50
+"Saftschorle 0,20l",Non_Alcoholic_Drink,3.90
+"Saftschorle 0,40l",Non_Alcoholic_Drink,4.50
+"Jever Fun (Alkoholfrei) 0,33l",Non_Alcoholic_Drink,3.90
+"Paulaner Hefeweizen (Alkoholfrei) 0,50l",Non_Alcoholic_Drink,4.50
+"Ladenburger Hefeweizen 0,50l",Alcoholic_Drink,4.50
+"Wasseralfinger Spezial 0,50l",Alcoholic_Drink,4.50
+"Wasseralfinger Pils vom Fass 0,33l",Alcoholic_Drink,3.90
+"Radler 0,50l",Alcoholic_Drink,4.20
+"TERRE NARDIN VENTI 2 CUVÉE PINK Venetien 0,10l",Alcoholic_Drink,6.90
+"TERRE NARDIN VENTI 2 CUVÉE PINK Venetien 0,75l",Alcoholic_Drink,31.90
+"FERRARI MAXIMUM BRUT Trient 0,10l",Alcoholic_Drink,7.00
+"FERRARI MAXIMUM BRUT Trient 0,75l",Alcoholic_Drink,42.00
+"FERRARI ROSÉ BRUT Trient 0,75l",Alcoholic_Drink,49.00
+"MOËT CHANDON ICE IMPÉRIAL Frankreich 0,75l",Alcoholic_Drink,150.00
 APEROL SPRITZ,Alcoholic_Drink,7.90
 LIMONCELLO SPRITZ,Alcoholic_Drink,7.50
 HUGO,Alcoholic_Drink,7.50
 CAMPARI DUE TOCCO ROSSO,Alcoholic_Drink,7.50
 CAMPARI Soda,Alcoholic_Drink,7.50
 CAMPARI Orange,Alcoholic_Drink,7.50
-"MARTINI bianco, extra dry",Alcoholic_Drink,6.90
+"MARTINI bianco,extra dry",Alcoholic_Drink,6.90
 RAMAZZOTTI ROSATO DUO,Alcoholic_Drink,6.90
 CYNAR Soda,Alcoholic_Drink,4.50
 Polipo con Pure di Patate Tartufato,Appetizer,17.90
@@ -55,10 +55,10 @@ Carpaccio Di Manzo,Appetizer,16.90
 Vitello Tonnato,Appetizer,16.90
 Composizione D'insalata Di Stagione,Extras,7.50
 Composizione D'insalata Rucola E Parmigiano,Extras,14.90
-"Composizione D'insalata Al Finocchio, Arancia E Scaglie Di Parmigiano",Extras,13.90
+"Composizione D'insalata Al Finocchio,Arancia E Scaglie Di Parmigiano",Extras,13.90
 Salat Mit Ziegenkäse Und Ital. Camembert Aus Büffelmozzarella,Extras,12.90
 Paccheri con Salsiccia e Funghi,Main_Dish,17.90
-"Strozzapreti con Vongole, Gamberi e Scampi",Main_Dish,18.90
+"Strozzapreti con Vongole,Gamberi e Scampi",Main_Dish,18.90
 Tagliatelle con Ragout di Anatra,Main_Dish,18.90
 Paccheri con Ragout e Coda di Aragosta,Main_Dish,27.00
 Ravioli Ricotta e Spinaci,Main_Dish,16.90
@@ -94,11 +94,11 @@ Quattro Stagioni,Pizza,14.00
 Vitello Tonnato,Pizza,14.00
 Pizza Dell'osteria,Pizza,14.00
 Calzone,Pizza,13.00
-"Pizza Bianca Mit Roastbeefscheiben, Rosmarin Und Frischer Hausgemachter Käsefonduta",Pizza,18.90
-"Pizza Mit Tomatensauce, Parmaschinken, Karamelisierter Feige, Und Frischer Cremiger Burrata",Pizza,18.90
+"Pizza Bianca Mit Roastbeefscheiben,Rosmarin Und Frischer Hausgemachter Käsefonduta",Pizza,18.90
+"Pizza Mit Tomatensauce,Parmaschinken,Karamelisierter Feige,Und Frischer Cremiger Burrata",Pizza,18.90
 Pizza Mit Garnelen Und Panierten Zucchiniblüten An Feinem Knoblauch-Kräuterpesto,Pizza,18.90
-"Pizza Mit Trüffelcreme, Burrata Und Räucherente",Pizza,18.90
-"Pizza Bianca Mit Schwertfischcarpaccio, Lachskavier Und Jakobsmuscheln",Pizza,18.90
+"Pizza Mit Trüffelcreme,Burrata Und Räucherente",Pizza,18.90
+"Pizza Bianca Mit Schwertfischcarpaccio,Lachskavier Und Jakobsmuscheln",Pizza,18.90
 Pinsa Parma,Pizza,18.90
 Pinsa Caprese,Pizza,18.90
 Pinsa Roastbeef,Pizza,19.90

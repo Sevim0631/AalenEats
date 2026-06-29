@@ -1,4 +1,4 @@
-﻿Item Name,Category,Price
+Item Name,Category,Price
 Peking Soup,Soup,3.0
 Vegetable Soup with Glass Noodles,Soup,3.5
 Chicken Soup with Glass Noodles,Soup,4.0
@@ -14,13 +14,13 @@ Mixed Salad,Appetizer,3.5
 Mixed Salad with Chicken,Appetizer,4.0
 Mixed Salad with Breaded Chicken,Appetizer,5.0
 Fried Rice with Egg and Vegetables,Main_Dish,9.5
-Fried Rice with Egg, Vegetables and Tofu,Main_Dish,10.5
-Fried Rice with Egg, Vegetables and Chicken,Main_Dish,10.5
-Fried Rice with Egg, Vegetables and Breaded Chicken,Main_Dish,11.5
-Fried Rice with Egg, Vegetables and Beef,Main_Dish,11.5
-Fried Rice with Egg, Vegetables and Crispy Duck,Main_Dish,12.5
-Fried Rice with Egg, Vegetables and Prawns,Main_Dish,12.5
-Fried Rice with Egg, Vegetables and Kimchi,Main_Dish,10.5
+"Fried Rice with Egg, Vegetables and Tofu",Main_Dish,10.5
+"Fried Rice with Egg, Vegetables and Chicken",Main_Dish,10.5
+"Fried Rice with Egg, Vegetables and Breaded Chicken",Main_Dish,11.5
+"Fried Rice with Egg, Vegetables and Beef",Main_Dish,11.5
+"Fried Rice with Egg, Vegetables and Crispy Duck",Main_Dish,12.5
+"Fried Rice with Egg, Vegetables and Prawns",Main_Dish,12.5
+"Fried Rice with Egg, Vegetables and Kimchi",Main_Dish,10.5
 Coconut Thai Curry with Vegetables,Main_Dish,10.0
 Coconut Thai Curry with Vegetables and Tofu,Main_Dish,10.5
 Coconut Thai Curry with Vegetables and Chicken,Main_Dish,10.5
@@ -29,12 +29,12 @@ Coconut Thai Curry with Vegetables and Beef,Main_Dish,11.5
 Coconut Thai Curry with Vegetables and Crispy Duck,Main_Dish,12.5
 Coconut Thai Curry with Vegetables and Prawns,Main_Dish,12.5
 Fried Noodles with Egg and Vegetables,Main_Dish,9.0
-Fried Noodles with Egg, Vegetables and Tofu,Main_Dish,10.0
-Fried Noodles with Egg, Vegetables and Chicken,Main_Dish,10.0
-Fried Noodles with Egg, Vegetables and Breaded Chicken,Main_Dish,11.0
-Fried Noodles with Egg, Vegetables and Beef,Main_Dish,11.0
-Fried Noodles with Egg, Vegetables and Crispy Duck,Main_Dish,12.0
-Fried Noodles with Egg, Vegetables and Prawns,Main_Dish,12.0
+"Fried Noodles with Egg, Vegetables and Tofu",Main_Dish,10.0
+"Fried Noodles with Egg, Vegetables and Chicken",Main_Dish,10.0
+"Fried Noodles with Egg, Vegetables and Breaded Chicken",Main_Dish,11.0
+"Fried Noodles with Egg, Vegetables and Beef",Main_Dish,11.0
+"Fried Noodles with Egg, Vegetables and Crispy Duck",Main_Dish,12.0
+"Fried Noodles with Egg, Vegetables and Prawns",Main_Dish,12.0
 Peanut Sauce with Vegetables,Main_Dish,10.0
 Peanut Sauce with Vegetables and Tofu,Main_Dish,10.5
 Peanut Sauce with Vegetables and Chicken,Main_Dish,10.5
@@ -64,8 +64,8 @@ Bowl Breaded Chicken,Main_Dish,11.5
 Bowl Beef,Main_Dish,11.5
 Bowl Crispy Duck,Main_Dish,12.5
 Bowl Prawns,Main_Dish,12.5
-Sweet and Sour Sauce with Vegetables, Pineapple and Breaded Chicken,Main_Dish,11.0
-Sweet and Sour Sauce with Vegetables, Pineapple and Crispy Duck,Main_Dish,12.0
+"Sweet and Sour Sauce with Vegetables, Pineapple and Breaded Chicken",Main_Dish,11.0
+"Sweet and Sour Sauce with Vegetables, Pineapple and Crispy Duck",Main_Dish,12.0
 Fried Lemongrass with Vegetables and Tofu,Main_Dish,11.0
 Fried Lemongrass with Vegetables and Chicken,Main_Dish,12.0
 Fried Lemongrass with Vegetables and Beef,Main_Dish,12.0

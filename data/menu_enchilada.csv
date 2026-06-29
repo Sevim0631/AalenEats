@@ -1,4 +1,4 @@
-﻿Item Name,Category,Price
+Item Name,Category,Price
 Nachos Original,Appetizer,7.90
 Loaded Nachos,Appetizer,8.90
 Mixed Dips y Chips,Appetizer,7.90
@@ -20,7 +20,7 @@ Chicken Bowl,Extras,14.90
 Burrito Supremo,Burrito,16.50
 Burrito New-Meat,Burrito,16.50
 Burrito Barbacoa,Burrito,16.50
-Burrito Chimichurri ,Burrito,16.90
+Burrito Chimichurri,Burrito,16.90
 Tres Miniburritos,Burrito,17.50
 Summer Burrito,Burrito,15.90
 Enchiladas Pollo,Main_Dish,16.90
@@ -138,33 +138,33 @@ Patrón Añejo,Alcoholic_Drink,5.90
 Don Julio Añejo,Alcoholic_Drink,5.90
 Corralejo 9900 Horas,Alcoholic_Drink,6.90
 Gusano Rojo Mezcal,Alcoholic_Drink,4.20
-Rosé Enchi 0,75l,Alcoholic_Drink,19.90
+"Rosé Enchi 0,75l",Alcoholic_Drink,19.90
 Sauvignon Blanc,Alcoholic_Drink,7.80
-0,75l Sauvignon Blanc,Alcoholic_Drink,28.00
-CD Pils 0,33L,Alcoholic_Drink,4.50
-Helles 0,3l,Alcoholic_Drink,3.70
-Helles 0,5l,Alcoholic_Drink,4.70
-Dinkelacker Kellerbier Naturtrüb 0,3L,Alcoholic_Drink,3.70
-Dinkelacker Kellerbier Naturtrüb 0,5l,Alcoholic_Drink,4.70
-Weizenradler 0,3l,Alcoholic_Drink,3.50
-Weizenradler 0,5l,Alcoholic_Drink,4.50
-Colaweizen 0,5l,Alcoholic_Drink,4.50
-Corona 0,355l,Alcoholic_Drink,4.50
-Tafelwasser 0,4l,Non_Alcoholic_Drink,3.20
-Cola-Mix 0,4l,Non_Alcoholic_Drink,4.20
-Red Bull 0,25l,Non_Alcoholic_Drink,3.90
-0,33l Pepsi light,Non_Alcoholic_Drink,3.90
-Selters 0,25l,Non_Alcoholic_Drink,2.80
-Selters 0,5l,Non_Alcoholic_Drink,4.90
-Pepsi Cola 0,4l,Non_Alcoholic_Drink,4.20
-Schwip Schwap Orange 0,4l,Non_Alcoholic_Drink,4.20
-Zitronenlimonade 0,4l,Non_Alcoholic_Drink,4.20
-Schweppes 0,2l,Non_Alcoholic_Drink,3.80
-Fever Tree Meditteranean Tonic Water 0,2l,Non_Alcoholic_Drink,3.80
-Granini Säfte & Nektare 0,4l,Non_Alcoholic_Drink,4.80
-Saftschorle 0,4l,Non_Alcoholic_Drink,4.40
-Holunderblütenschorle 0,4l,Non_Alcoholic_Drink,4.20
-Paloma 0,33l,Non_Alcoholic_Drink,3.90
+"0,75l Sauvignon Blanc",Alcoholic_Drink,28.00
+"CD Pils 0,33L",Alcoholic_Drink,4.50
+"Helles 0,3l",Alcoholic_Drink,3.70
+"Helles 0,5l",Alcoholic_Drink,4.70
+"Dinkelacker Kellerbier Naturtrüb 0,3L",Alcoholic_Drink,3.70
+"Dinkelacker Kellerbier Naturtrüb 0,5l",Alcoholic_Drink,4.70
+"Weizenradler 0,3l",Alcoholic_Drink,3.50
+"Weizenradler 0,5l",Alcoholic_Drink,4.50
+"Colaweizen 0,5l",Alcoholic_Drink,4.50
+"Corona 0,355l",Alcoholic_Drink,4.50
+"Tafelwasser 0,4l",Non_Alcoholic_Drink,3.20
+"Cola-Mix 0,4l",Non_Alcoholic_Drink,4.20
+"Red Bull 0,25l",Non_Alcoholic_Drink,3.90
+"0,33l Pepsi light",Non_Alcoholic_Drink,3.90
+"Selters 0,25l",Non_Alcoholic_Drink,2.80
+"Selters 0,5l",Non_Alcoholic_Drink,4.90
+"Pepsi Cola 0,4l",Non_Alcoholic_Drink,4.20
+"Schwip Schwap Orange 0,4l",Non_Alcoholic_Drink,4.20
+"Zitronenlimonade 0,4l",Non_Alcoholic_Drink,4.20
+"Schweppes 0,2l",Non_Alcoholic_Drink,3.80
+"Fever Tree Meditteranean Tonic Water 0,2l",Non_Alcoholic_Drink,3.80
+"Granini Säfte & Nektare 0,4l",Non_Alcoholic_Drink,4.80
+"Saftschorle 0,4l",Non_Alcoholic_Drink,4.40
+"Holunderblütenschorle 0,4l",Non_Alcoholic_Drink,4.20
+"Paloma 0,33l",Non_Alcoholic_Drink,3.90
 Frischer Minztee,Non_Alcoholic_Drink,4.00
 Café Crème,Non_Alcoholic_Drink,3.00
 Cappuccino,Non_Alcoholic_Drink,3.80

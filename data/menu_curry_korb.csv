@@ -1,4 +1,4 @@
-﻿Item Name,Category,Price
+Item Name,Category,Price
 Vegetable Samosa (2 Pieces fried pastry filled with spiced vegetables),Appetizer,6.50
 Vegetable Pakora (Assorted deep-fried vegetable fritters),Appetizer,5.90
 Paneer Pakora (Deep-fried homemade cheese fritters),Appetizer,6.90
@@ -10,7 +10,7 @@ Dal Soup (Traditional Indian yellow lentil soup),Soup,4.90
 Tomato Soup (Creamy tomato soup seasoned with aromatic herbs),Soup,4.90
 Chicken Soup (Spiced chicken soup with fresh coriander),Soup,5.50
 Vegetable Soup (Mixed seasonal vegetable clear soup),Soup,4.90
-Tandoori Chicken (Chicken legs marinated in yogurt and spices, grilled in clay oven),Main_Dish,14.90
+"Tandoori Chicken (Chicken legs marinated in yogurt and spices,grilled in clay oven)",Main_Dish,14.90
 Chicken Tikka (Boneless chicken chunks marinated and roasted on a skewer),Main_Dish,16.50
 Lamb Tikka (Tender lamb cubes seasoned and clay-oven grilled),Main_Dish,18.90
 Paneer Tikka (Marinated cottage cheese chunks grilled with peppers and onions),Main_Dish,15.50
@@ -20,27 +20,27 @@ Butter Chicken (Roasted chicken breast chunks in mild tomato-butter-cream sauce)
 Chicken Tikka Masala (Grilled chicken chunks in thick spicy masala sauce),Main_Dish,15.90
 Chicken Korma (Chicken breast cooked in rich Mughlai cashew-almond cream sauce),Main_Dish,15.90
 Mango Chicken (Chicken breast in delicious sweet and spicy mango-cream sauce),Main_Dish,15.50
-Chicken Jalfrezi (Chicken cooked with bell peppers, onions, tomatoes and green chilies),Main_Dish,15.50
+"Chicken Jalfrezi (Chicken cooked with bell peppers,onions,tomatoes and green chilies)",Main_Dish,15.50
 Chicken Saag (Tender chicken pieces simmered with spiced spinach),Main_Dish,14.90
 Chicken Vindaloo (Chicken and potatoes in extremely hot and fiery sauce),Main_Dish,14.90
 Lamb Curry (Tender lamb cubes in rich spiced curry sauce),Main_Dish,17.50
 Lamb Korma (Lamb in delicate mild cashew cream sauce with almonds),Main_Dish,18.50
 Lamb Rogan Josh (Traditional aromatic Kashmiri lamb dish cooked with yogurt),Main_Dish,17.90
 Lamb Saag (Lamb chunks braised with heavily spiced spinach puree),Main_Dish,17.50
-Lamb Vindaloo (Lamb with potatoes cooked in a tangy, sharply spiced sauce),Main_Dish,17.50
-Lamb Bhuna (Pan-fried lamb with onions, ginger and ground spices),Main_Dish,17.90
+"Lamb Vindaloo (Lamb with potatoes cooked in a tangy,sharply spiced sauce)",Main_Dish,17.50
+"Lamb Bhuna (Pan-fried lamb with onions,ginger and ground spices)",Main_Dish,17.90
 Dal Makhani (Slow-cooked black lentils with cream and butter),Main_Dish,12.90
-Tarka Dal (Yellow lentils tempered with fried cumin, onions and garlic),Main_Dish,11.90
+"Tarka Dal (Yellow lentils tempered with fried cumin,onions and garlic)",Main_Dish,11.90
 Chana Masala (Spiced chickpeas cooked in a thick tangy masala sauce),Main_Dish,12.50
 Palak Paneer (Homemade cottage cheese cubes in seasoned spinach cream),Main_Dish,13.90
 Shahi Paneer (Cottage cheese chunks cooked in rich royal tomato-cream sauce),Main_Dish,13.90
 Mattar Paneer (Fresh peas and cottage cheese in savory curry gravy),Main_Dish,13.50
 Aloo Gobbi (Fresh cauliflower florets and potatoes tossed with turmeric and ginger),Main_Dish,12.50
 Malai Kofta (Fried vegetable-cheese dumplings in silky sweet cream sauce),Main_Dish,13.90
-Baingan Bharta (Roasted mashed eggplant cooked with peas, onions and tomatoes),Main_Dish,13.50
+"Baingan Bharta (Roasted mashed eggplant cooked with peas,onions and tomatoes)",Main_Dish,13.50
 Mixed Vegetable Curry (Assorted garden vegetables stewed in traditional curry),Main_Dish,12.50
-Vegetable Biryani (Basmati rice cooked with mixed vegetables, nuts and aromatic spices),Rice,14.50
-Chicken Biryani (Flavored basmati rice layered with spiced chicken, mint and saffron),Rice,15.90
+"Vegetable Biryani (Basmati rice cooked with mixed vegetables,nuts and aromatic spices)",Rice,14.50
+"Chicken Biryani (Flavored basmati rice layered with spiced chicken,mint and saffron)",Rice,15.90
 Lamb Biryani (Fragrant basmati rice slow-cooked with tender lamb and spices),Rice,17.90
 Prawn Biryani (Basmati rice steamed with marinated king prawns and exotic herbs),Rice,19.50
 Plain Naan (Leavened fine flour flatbread baked in tandoor),Extras,2.90
@@ -48,7 +48,7 @@ Butter Naan (Tandoori flatbread layered with rich melted butter),Extras,3.50
 Garlic Naan (Fladenbrot topped with fresh minced garlic and herbs),Extras,3.90
 Cheese Naan (Leavened flatbread stuffed with grated cheese),Extras,4.20
 Tandoori Roti (Whole wheat unleavened flatbread),Extras,2.50
-Raita (Cool yogurt dip mixed with grated cucumber, roasted cumin and spices),Extras,3.50
+"Raita (Cool yogurt dip mixed with grated cucumber,roasted cumin and spices)",Extras,3.50
 Extra Basmati Rice (Portion of plain steamed premium basmati rice),Extras,3.00
 Gulab Jamun (Warm deep-fried golden milk solid balls soaked in cardamom sugar syrup),Dessert,4.50
 Mango Kulfi (Traditional dense homemade Indian mango ice cream),Dessert,4.90
