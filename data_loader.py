@@ -41,13 +41,7 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
         menu = pd.read_csv("data/" + menu_file)
         menu_items = []
 
-            if os.path.exists(full_menu_path):
-                with open(full_menu_path, mode="r", encoding="utf-8-sig") as menu_file:
-                    menu_lines = menu_file.readlines()
-                    if len(menu_lines) > 1:
-                        for item_line in menu_lines[1:]:
-                            item_str = item_line.strip()
-                            if not item_str: continue
+        menu = pd.read_csv("data/" + menu_file)
 
                             item_parts = item_str.rsplit(",", 2)
                             if len(item_parts) == 3:
