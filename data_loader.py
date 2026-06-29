@@ -6,7 +6,6 @@ from models import (
 )
 
 def load_data_from_csv(master_csv_path="data/restaurants.csv"):
-
     class_mapping = {
         "Pizza": Pizza,
         "Burger": Burger,
