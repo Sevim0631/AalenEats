@@ -30,21 +30,7 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
 
     restaurants_pool = []
 
-    if not os.path.exists(master_csv_path):
-        print(f"Fehler: Master-Datei '{master_csv_path}' wurde nicht gefunden.")
-        return restaurants_pool
-
-    with open(master_csv_path, mode="r", encoding="utf-8-sig") as master_file:
-        lines = master_file.readlines()
-        if not lines:
-            return restaurants_pool
-
-        for line in lines[1:]:
-            line_str = line.strip()
-            if not line_str: continue
-
-            parts = line_str.split(",")
-            if len(parts) < 3: continue
+    restaurants = pd.read_csv("data/restaurants.csv")
 
             name = parts[0].strip()
             cuisine = parts[1].strip()
