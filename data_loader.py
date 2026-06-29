@@ -43,11 +43,11 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
 
         menu = pd.read_csv("data/" + menu_file)
 
-                            item_parts = item_str.rsplit(",", 2)
-                            if len(item_parts) == 3:
-                                item_name = item_parts[0].strip().strip('"')
-                                category_str = item_parts[1].strip()
-                                price_str = item_parts[2].strip()
+        for item_name, category, price in zip(
+            menu["Item Name"],
+            menu["Category"],
+            menu["Price"]
+        ):
 
                                 try:
                                     price = float(price_str)
