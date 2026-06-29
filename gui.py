@@ -69,7 +69,6 @@ class AalenEatsApp:
         tk.Label(container, text="Welcome to AalenEats", font=("Helvetica", 16, "bold")).pack(pady=10)
         tk.Label(container, text="What would you like to eat?", font=("Helvetica", 12)).pack(pady=5)
 
-        # Display cart summary on the home screen
         if self.current_order.selected_items:
             order_summary_frame = tk.Frame(container)
             order_summary_frame.pack(pady=5) # This frame will be centered
