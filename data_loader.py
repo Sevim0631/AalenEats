@@ -32,12 +32,14 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
 
     restaurants = pd.read_csv("data/restaurants.csv")
 
-            name = parts[0].strip()
-            cuisine = parts[1].strip()
-            menu_filename = parts[2].strip()
-
-            full_menu_path = os.path.join("data", menu_filename)
-            menu_items = []
+    for name, cuisine, menu_file in zip(
+        restaurants["Restaurant Name"],
+        restaurants["Cuisine"],
+        restaurants["Menu File"]
+    ):
+        print("Loading:", menu_file)
+        menu = pd.read_csv("data/" + menu_file)
+        menu_items = []
 
             if os.path.exists(full_menu_path):
                 with open(full_menu_path, mode="r", encoding="utf-8-sig") as menu_file:
