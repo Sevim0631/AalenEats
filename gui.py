@@ -90,7 +90,6 @@ class AalenEatsApp:
             btn.pack(pady=5)
 
     def show_restaurant_list(self, selected_cuisine):
-        """Schritt 2: Restaurants anzeigen."""
         container = self.create_scrollable_container()
 
         tk.Label(container, text=f"{selected_cuisine} Restaurants", font=("Helvetica", 16, "bold")).pack(pady=10)
