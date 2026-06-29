@@ -1,9 +1,5 @@
-import os
-from models import (
-    MenuItem, Main_Dish, Appetizer, Pasta, Noodle, Rice, Soup,
-    Dessert, Coffee_Types, Burrito, Alcoholic_Drink, Maultasche,
-    Extras, Non_Alcoholic_Drink, Taco, Pizza, Döner, Pide, Burger, Restaurant
-)
+import pandas as pd
+from models import *
 
 def load_data_from_csv(master_csv_path="data/restaurants.csv"):
     class_mapping = {
