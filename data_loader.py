@@ -41,8 +41,6 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
         menu = pd.read_csv("data/" + menu_file)
         menu_items = []
 
-        menu = pd.read_csv("data/" + menu_file)
-
         for item_name, category, price in zip(
             menu["Item Name"],
             menu["Category"],
