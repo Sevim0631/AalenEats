@@ -49,14 +49,8 @@ def load_data_from_csv(master_csv_path="data/restaurants.csv"):
             menu["Price"]
         ):
 
-                                try:
-                                    price = float(price_str)
-                                    class_blueprint = class_mapping.get(category_str, MenuItem)
-                                    menu_items.append(class_blueprint(item_name, price))
-                                except ValueError:
-                                    print(f"fıle could not be parsed: {item_str}")
-            else:
-                print(f" Menufile '{full_menu_path}' missing for '{name}'.")
+            item_class = class_mapping.get(category, MenuItem)
+            menu_items.append(item_class(item_name, float(price)))
 
             restaurants_pool.append(Restaurant(name, cuisine, menu_items))
 
